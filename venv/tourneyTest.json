@@ -1,0 +1,1199 @@
+[
+  {
+    "division": "east",
+    "game_id": 1,
+    "round_num": 1,
+    "location": "at Fort Worth, TX",
+    "game_url": "/cbb/boxscores/2022-03-17-14-baylor.html",
+    "winner": {
+      "name": "Baylor",
+      "rank": "1",
+      "score": "85",
+      "team_url": "/cbb/schools/baylor/men/2022.html"
+    },
+    "loser": {
+      "name": "Norfolk State",
+      "rank": "16",
+      "score": "49",
+      "team_url": "/cbb/schools/norfolk-state/men/2022.html"
+    }
+  },
+  {
+    "division": "east",
+    "game_id": 2,
+    "round_num": 1,
+    "location": "at Fort Worth, TX",
+    "game_url": "/cbb/boxscores/2022-03-17-16-north-carolina.html",
+    "winner": {
+      "name": "UNC",
+      "rank": "8",
+      "score": "95",
+      "team_url": "/cbb/schools/north-carolina/men/2022.html"
+    },
+    "loser": {
+      "name": "Marquette",
+      "rank": "9",
+      "score": "63",
+      "team_url": "/cbb/schools/marquette/men/2022.html"
+    }
+  },
+  {
+    "division": "east",
+    "game_id": 3,
+    "round_num": 1,
+    "location": "at Portland, OR",
+    "game_url": "/cbb/boxscores/2022-03-17-19-saint-marys-ca.html",
+    "winner": {
+      "name": "Saint Mary's",
+      "rank": "5",
+      "score": "82",
+      "team_url": "/cbb/schools/saint-marys-ca/men/2022.html"
+    },
+    "loser": {
+      "name": "Indiana",
+      "rank": "12",
+      "score": "53",
+      "team_url": "/cbb/schools/indiana/men/2022.html"
+    }
+  },
+  {
+    "division": "east",
+    "game_id": 4,
+    "round_num": 1,
+    "location": "at Portland, OR",
+    "game_url": "/cbb/boxscores/2022-03-17-21-ucla.html",
+    "winner": {
+      "name": "UCLA",
+      "rank": "4",
+      "score": "57",
+      "team_url": "/cbb/schools/ucla/men/2022.html"
+    },
+    "loser": {
+      "name": "Akron",
+      "rank": "13",
+      "score": "53",
+      "team_url": "/cbb/schools/akron/men/2022.html"
+    }
+  },
+  {
+    "division": "east",
+    "game_id": 5,
+    "round_num": 1,
+    "location": "at Milwaukee, WI",
+    "game_url": "/cbb/boxscores/2022-03-18-16-texas.html",
+    "winner": {
+      "name": "Texas",
+      "rank": "6",
+      "score": "81",
+      "team_url": "/cbb/schools/texas/men/2022.html"
+    },
+    "loser": {
+      "name": "Virginia Tech",
+      "rank": "11",
+      "score": "73",
+      "team_url": "/cbb/schools/virginia-tech/men/2022.html"
+    }
+  },
+  {
+    "division": "east",
+    "game_id": 6,
+    "round_num": 1,
+    "location": "at Milwaukee, WI",
+    "game_url": "/cbb/boxscores/2022-03-18-14-purdue.html",
+    "winner": {
+      "name": "Purdue",
+      "rank": "3",
+      "score": "78",
+      "team_url": "/cbb/schools/purdue/men/2022.html"
+    },
+    "loser": {
+      "name": "Yale",
+      "rank": "14",
+      "score": "56",
+      "team_url": "/cbb/schools/yale/men/2022.html"
+    }
+  },
+  {
+    "division": "east",
+    "game_id": 7,
+    "round_num": 1,
+    "location": "at Indianapolis, IN",
+    "game_url": "/cbb/boxscores/2022-03-17-21-murray-state.html",
+    "winner": {
+      "name": "Murray State",
+      "rank": "7",
+      "score": "92",
+      "team_url": "/cbb/schools/murray-state/men/2022.html"
+    },
+    "loser": {
+      "name": "San Francisco",
+      "rank": "10",
+      "score": "87",
+      "team_url": "/cbb/schools/san-francisco/men/2022.html"
+    }
+  },
+  {
+    "division": "east",
+    "game_id": 8,
+    "round_num": 1,
+    "location": "at Indianapolis, IN",
+    "game_url": "/cbb/boxscores/2022-03-17-19-kentucky.html",
+    "loser": {
+      "name": "Kentucky",
+      "rank": "2",
+      "score": "79",
+      "team_url": "/cbb/schools/kentucky/men/2022.html"
+    },
+    "winner": {
+      "name": "St. Peter's",
+      "rank": "15",
+      "score": "85",
+      "team_url": "/cbb/schools/saint-peters/men/2022.html"
+    }
+  },
+  {
+    "division": "east",
+    "game_id": 9,
+    "round_num": 2,
+    "location": "at Fort Worth, TX",
+    "game_url": "/cbb/boxscores/2022-03-19-12-baylor.html",
+    "loser": {
+      "name": "Baylor",
+      "rank": "1",
+      "score": "86",
+      "team_url": "/cbb/schools/baylor/men/2022.html"
+    },
+    "winner": {
+      "name": "UNC",
+      "rank": "8",
+      "score": "93",
+      "team_url": "/cbb/schools/north-carolina/men/2022.html"
+    }
+  },
+  {
+    "division": "east",
+    "game_id": 10,
+    "round_num": 2,
+    "location": "at Portland, OR",
+    "game_url": "/cbb/boxscores/2022-03-19-19-ucla.html",
+    "loser": {
+      "name": "Saint Mary's",
+      "rank": "5",
+      "score": "56",
+      "team_url": "/cbb/schools/saint-marys-ca/men/2022.html"
+    },
+    "winner": {
+      "name": "UCLA",
+      "rank": "4",
+      "score": "72",
+      "team_url": "/cbb/schools/ucla/men/2022.html"
+    }
+  },
+  {
+    "division": "east",
+    "game_id": 11,
+    "round_num": 2,
+    "location": "at Milwaukee, WI",
+    "game_url": "/cbb/boxscores/2022-03-20-20-purdue.html",
+    "loser": {
+      "name": "Texas",
+      "rank": "6",
+      "score": "71",
+      "team_url": "/cbb/schools/texas/men/2022.html"
+    },
+    "winner": {
+      "name": "Purdue",
+      "rank": "3",
+      "score": "81",
+      "team_url": "/cbb/schools/purdue/men/2022.html"
+    }
+  },
+  {
+    "division": "east",
+    "game_id": 12,
+    "round_num": 2,
+    "location": "at Indianapolis, IN",
+    "game_url": "/cbb/boxscores/2022-03-19-20-murray-state.html",
+    "loser": {
+      "name": "Murray State",
+      "rank": "7",
+      "score": "60",
+      "team_url": "/cbb/schools/murray-state/men/2022.html"
+    },
+    "winner": {
+      "name": "St. Peter's",
+      "rank": "15",
+      "score": "70",
+      "team_url": "/cbb/schools/saint-peters/men/2022.html"
+    }
+  },
+  {
+    "division": "east",
+    "game_id": 13,
+    "round_num": 3,
+    "location": "at Philadelphia, PA",
+    "game_url": "/cbb/boxscores/2022-03-25-21-ucla.html",
+    "winner": {
+      "name": "UNC",
+      "rank": "8",
+      "score": "73",
+      "team_url": "/cbb/schools/north-carolina/men/2022.html"
+    },
+    "loser": {
+      "name": "UCLA",
+      "rank": "4",
+      "score": "66",
+      "team_url": "/cbb/schools/ucla/men/2022.html"
+    }
+  },
+  {
+    "division": "east",
+    "game_id": 14,
+    "round_num": 3,
+    "location": "at Philadelphia, PA",
+    "game_url": "/cbb/boxscores/2022-03-25-19-purdue.html",
+    "loser": {
+      "name": "Purdue",
+      "rank": "3",
+      "score": "64",
+      "team_url": "/cbb/schools/purdue/men/2022.html"
+    },
+    "winner": {
+      "name": "St. Peter's",
+      "rank": "15",
+      "score": "67",
+      "team_url": "/cbb/schools/saint-peters/men/2022.html"
+    }
+  },
+  {
+    "division": "east",
+    "game_id": 15,
+    "round_num": 4,
+    "location": "at Philadelphia, PA",
+    "game_url": "/cbb/boxscores/2022-03-27-17-north-carolina.html",
+    "winner": {
+      "name": "UNC",
+      "rank": "8",
+      "score": "69",
+      "team_url": "/cbb/schools/north-carolina/men/2022.html"
+    },
+    "loser": {
+      "name": "St. Peter's",
+      "rank": "15",
+      "score": "49",
+      "team_url": "/cbb/schools/saint-peters/men/2022.html"
+    }
+  },
+  {
+    "division": "midwest",
+    "game_id": 16,
+    "round_num": 1,
+    "location": "at Fort Worth, TX",
+    "game_url": "/cbb/boxscores/2022-03-17-21-kansas.html",
+    "winner": {
+      "name": "Kansas",
+      "rank": "1",
+      "score": "83",
+      "team_url": "/cbb/schools/kansas/men/2022.html"
+    },
+    "loser": {
+      "name": "Texas Southern",
+      "rank": "16",
+      "score": "56",
+      "team_url": "/cbb/schools/texas-southern/men/2022.html"
+    }
+  },
+  {
+    "division": "midwest",
+    "game_id": 17,
+    "round_num": 1,
+    "location": "at Fort Worth, TX",
+    "game_url": "/cbb/boxscores/2022-03-17-19-san-diego-state.html",
+    "loser": {
+      "name": "San Diego State",
+      "rank": "8",
+      "score": "69",
+      "team_url": "/cbb/schools/san-diego-state/men/2022.html"
+    },
+    "winner": {
+      "name": "Creighton",
+      "rank": "9",
+      "score": "72",
+      "team_url": "/cbb/schools/creighton/men/2022.html"
+    }
+  },
+  {
+    "division": "midwest",
+    "game_id": 18,
+    "round_num": 1,
+    "location": "at Buffalo, NY",
+    "game_url": "/cbb/boxscores/2022-03-17-15-iowa.html",
+    "loser": {
+      "name": "Iowa",
+      "rank": "5",
+      "score": "63",
+      "team_url": "/cbb/schools/iowa/men/2022.html"
+    },
+    "winner": {
+      "name": "Richmond",
+      "rank": "12",
+      "score": "67",
+      "team_url": "/cbb/schools/richmond/men/2022.html"
+    }
+  },
+  {
+    "division": "midwest",
+    "game_id": 19,
+    "round_num": 1,
+    "location": "at Buffalo, NY",
+    "game_url": "/cbb/boxscores/2022-03-17-12-providence.html",
+    "winner": {
+      "name": "Providence",
+      "rank": "4",
+      "score": "66",
+      "team_url": "/cbb/schools/providence/men/2022.html"
+    },
+    "loser": {
+      "name": "South Dakota State",
+      "rank": "13",
+      "score": "57",
+      "team_url": "/cbb/schools/south-dakota-state/men/2022.html"
+    }
+  },
+  {
+    "division": "midwest",
+    "game_id": 20,
+    "round_num": 1,
+    "location": "at Milwaukee, WI",
+    "game_url": "/cbb/boxscores/2022-03-18-19-louisiana-state.html",
+    "loser": {
+      "name": "LSU",
+      "rank": "6",
+      "score": "54",
+      "team_url": "/cbb/schools/louisiana-state/men/2022.html"
+    },
+    "winner": {
+      "name": "Iowa State",
+      "rank": "11",
+      "score": "59",
+      "team_url": "/cbb/schools/iowa-state/men/2022.html"
+    }
+  },
+  {
+    "division": "midwest",
+    "game_id": 21,
+    "round_num": 1,
+    "location": "at Milwaukee, WI",
+    "game_url": "/cbb/boxscores/2022-03-18-21-wisconsin.html",
+    "winner": {
+      "name": "Wisconsin",
+      "rank": "3",
+      "score": "67",
+      "team_url": "/cbb/schools/wisconsin/men/2022.html"
+    },
+    "loser": {
+      "name": "Colgate",
+      "rank": "14",
+      "score": "60",
+      "team_url": "/cbb/schools/colgate/men/2022.html"
+    }
+  },
+  {
+    "division": "midwest",
+    "game_id": 22,
+    "round_num": 1,
+    "location": "at Greenville, SC",
+    "game_url": "/cbb/boxscores/2022-03-18-15-southern-california.html",
+    "loser": {
+      "name": "USC",
+      "rank": "7",
+      "score": "66",
+      "team_url": "/cbb/schools/southern-california/men/2022.html"
+    },
+    "winner": {
+      "name": "Miami (FL)",
+      "rank": "10",
+      "score": "68",
+      "team_url": "/cbb/schools/miami-fl/men/2022.html"
+    }
+  },
+  {
+    "division": "midwest",
+    "game_id": 23,
+    "round_num": 1,
+    "location": "at Greenville, SC",
+    "game_url": "/cbb/boxscores/2022-03-18-12-auburn.html",
+    "winner": {
+      "name": "Auburn",
+      "rank": "2",
+      "score": "80",
+      "team_url": "/cbb/schools/auburn/men/2022.html"
+    },
+    "loser": {
+      "name": "Jacksonville State",
+      "rank": "15",
+      "score": "61",
+      "team_url": "/cbb/schools/jacksonville-state/men/2022.html"
+    }
+  },
+  {
+    "division": "midwest",
+    "game_id": 24,
+    "round_num": 2,
+    "location": "at Fort Worth, TX",
+    "game_url": "/cbb/boxscores/2022-03-19-14-kansas.html",
+    "winner": {
+      "name": "Kansas",
+      "rank": "1",
+      "score": "79",
+      "team_url": "/cbb/schools/kansas/men/2022.html"
+    },
+    "loser": {
+      "name": "Creighton",
+      "rank": "9",
+      "score": "72",
+      "team_url": "/cbb/schools/creighton/men/2022.html"
+    }
+  },
+  {
+    "division": "midwest",
+    "game_id": 25,
+    "round_num": 2,
+    "location": "at Buffalo, NY",
+    "game_url": "/cbb/boxscores/2022-03-19-18-providence.html",
+    "loser": {
+      "name": "Richmond",
+      "rank": "12",
+      "score": "51",
+      "team_url": "/cbb/schools/richmond/men/2022.html"
+    },
+    "winner": {
+      "name": "Providence",
+      "rank": "4",
+      "score": "79",
+      "team_url": "/cbb/schools/providence/men/2022.html"
+    }
+  },
+  {
+    "division": "midwest",
+    "game_id": 26,
+    "round_num": 2,
+    "location": "at Milwaukee, WI",
+    "game_url": "/cbb/boxscores/2022-03-20-18-wisconsin.html",
+    "winner": {
+      "name": "Iowa State",
+      "rank": "11",
+      "score": "54",
+      "team_url": "/cbb/schools/iowa-state/men/2022.html"
+    },
+    "loser": {
+      "name": "Wisconsin",
+      "rank": "3",
+      "score": "49",
+      "team_url": "/cbb/schools/wisconsin/men/2022.html"
+    }
+  },
+  {
+    "division": "midwest",
+    "game_id": 27,
+    "round_num": 2,
+    "location": "at Greenville, SC",
+    "game_url": "/cbb/boxscores/2022-03-20-19-auburn.html",
+    "winner": {
+      "name": "Miami (FL)",
+      "rank": "10",
+      "score": "79",
+      "team_url": "/cbb/schools/miami-fl/men/2022.html"
+    },
+    "loser": {
+      "name": "Auburn",
+      "rank": "2",
+      "score": "61",
+      "team_url": "/cbb/schools/auburn/men/2022.html"
+    }
+  },
+  {
+    "division": "midwest",
+    "game_id": 28,
+    "round_num": 3,
+    "location": "at Chicago, IL",
+    "game_url": "/cbb/boxscores/2022-03-25-19-kansas.html",
+    "winner": {
+      "name": "Kansas",
+      "rank": "1",
+      "score": "66",
+      "team_url": "/cbb/schools/kansas/men/2022.html"
+    },
+    "loser": {
+      "name": "Providence",
+      "rank": "4",
+      "score": "61",
+      "team_url": "/cbb/schools/providence/men/2022.html"
+    }
+  },
+  {
+    "division": "midwest",
+    "game_id": 29,
+    "round_num": 3,
+    "location": "at Chicago, IL",
+    "game_url": "/cbb/boxscores/2022-03-25-21-miami-fl.html",
+    "loser": {
+      "name": "Iowa State",
+      "rank": "11",
+      "score": "56",
+      "team_url": "/cbb/schools/iowa-state/men/2022.html"
+    },
+    "winner": {
+      "name": "Miami (FL)",
+      "rank": "10",
+      "score": "70",
+      "team_url": "/cbb/schools/miami-fl/men/2022.html"
+    }
+  },
+  {
+    "division": "midwest",
+    "game_id": 30,
+    "round_num": 4,
+    "location": "at Chicago, IL",
+    "game_url": "/cbb/boxscores/2022-03-27-14-kansas.html",
+    "winner": {
+      "name": "Kansas",
+      "rank": "1",
+      "score": "76",
+      "team_url": "/cbb/schools/kansas/men/2022.html"
+    },
+    "loser": {
+      "name": "Miami (FL)",
+      "rank": "10",
+      "score": "50",
+      "team_url": "/cbb/schools/miami-fl/men/2022.html"
+    }
+  },
+  {
+    "division": "south",
+    "game_id": 31,
+    "round_num": 1,
+    "location": "at San Diego, CA",
+    "game_url": "/cbb/boxscores/2022-03-18-19-arizona.html",
+    "winner": {
+      "name": "Arizona",
+      "rank": "1",
+      "score": "87",
+      "team_url": "/cbb/schools/arizona/men/2022.html"
+    },
+    "loser": {
+      "name": "Wright State",
+      "rank": "16",
+      "score": "70",
+      "team_url": "/cbb/schools/wright-state/men/2022.html"
+    }
+  },
+  {
+    "division": "south",
+    "game_id": 32,
+    "round_num": 1,
+    "location": "at San Diego, CA",
+    "game_url": "/cbb/boxscores/2022-03-18-21-seton-hall.html",
+    "loser": {
+      "name": "Seton Hall",
+      "rank": "8",
+      "score": "42",
+      "team_url": "/cbb/schools/seton-hall/men/2022.html"
+    },
+    "winner": {
+      "name": "TCU",
+      "rank": "9",
+      "score": "69",
+      "team_url": "/cbb/schools/texas-christian/men/2022.html"
+    }
+  },
+  {
+    "division": "south",
+    "game_id": 33,
+    "round_num": 1,
+    "location": "at Pittsburgh, PA",
+    "game_url": "/cbb/boxscores/2022-03-18-21-houston.html",
+    "winner": {
+      "name": "Houston",
+      "rank": "5",
+      "score": "82",
+      "team_url": "/cbb/schools/houston/men/2022.html"
+    },
+    "loser": {
+      "name": "UAB",
+      "rank": "12",
+      "score": "68",
+      "team_url": "/cbb/schools/alabama-birmingham/men/2022.html"
+    }
+  },
+  {
+    "division": "south",
+    "game_id": 34,
+    "round_num": 1,
+    "location": "at Pittsburgh, PA",
+    "game_url": "/cbb/boxscores/2022-03-18-18-illinois.html",
+    "winner": {
+      "name": "Illinois",
+      "rank": "4",
+      "score": "54",
+      "team_url": "/cbb/schools/illinois/men/2022.html"
+    },
+    "loser": {
+      "name": "Chattanooga",
+      "rank": "13",
+      "score": "53",
+      "team_url": "/cbb/schools/chattanooga/men/2022.html"
+    }
+  },
+  {
+    "division": "south",
+    "game_id": 35,
+    "round_num": 1,
+    "location": "at Indianapolis, IN",
+    "game_url": "/cbb/boxscores/2022-03-17-12-colorado-state.html",
+    "loser": {
+      "name": "Colorado State",
+      "rank": "6",
+      "score": "63",
+      "team_url": "/cbb/schools/colorado-state/men/2022.html"
+    },
+    "winner": {
+      "name": "Michigan",
+      "rank": "11",
+      "score": "75",
+      "team_url": "/cbb/schools/michigan/men/2022.html"
+    }
+  },
+  {
+    "division": "south",
+    "game_id": 36,
+    "round_num": 1,
+    "location": "at Indianapolis, IN",
+    "game_url": "/cbb/boxscores/2022-03-17-14-tennessee.html",
+    "winner": {
+      "name": "Tennessee",
+      "rank": "3",
+      "score": "88",
+      "team_url": "/cbb/schools/tennessee/men/2022.html"
+    },
+    "loser": {
+      "name": "Longwood",
+      "rank": "14",
+      "score": "56",
+      "team_url": "/cbb/schools/longwood/men/2022.html"
+    }
+  },
+  {
+    "division": "south",
+    "game_id": 37,
+    "round_num": 1,
+    "location": "at Pittsburgh, PA",
+    "game_url": "/cbb/boxscores/2022-03-18-12-ohio-state.html",
+    "winner": {
+      "name": "Ohio State",
+      "rank": "7",
+      "score": "54",
+      "team_url": "/cbb/schools/ohio-state/men/2022.html"
+    },
+    "loser": {
+      "name": "Loyola (IL)",
+      "rank": "10",
+      "score": "41",
+      "team_url": "/cbb/schools/loyola-il/men/2022.html"
+    }
+  },
+  {
+    "division": "south",
+    "game_id": 38,
+    "round_num": 1,
+    "location": "at Pittsburgh, PA",
+    "game_url": "/cbb/boxscores/2022-03-18-14-villanova.html",
+    "winner": {
+      "name": "Villanova",
+      "rank": "2",
+      "score": "80",
+      "team_url": "/cbb/schools/villanova/men/2022.html"
+    },
+    "loser": {
+      "name": "Delaware",
+      "rank": "15",
+      "score": "60",
+      "team_url": "/cbb/schools/delaware/men/2022.html"
+    }
+  },
+  {
+    "division": "south",
+    "game_id": 39,
+    "round_num": 2,
+    "location": "at San Diego, CA",
+    "game_url": "/cbb/boxscores/2022-03-20-21-arizona.html",
+    "winner": {
+      "name": "Arizona",
+      "rank": "1",
+      "score": "85",
+      "team_url": "/cbb/schools/arizona/men/2022.html"
+    },
+    "loser": {
+      "name": "TCU",
+      "rank": "9",
+      "score": "80",
+      "team_url": "/cbb/schools/texas-christian/men/2022.html"
+    }
+  },
+  {
+    "division": "south",
+    "game_id": 40,
+    "round_num": 2,
+    "location": "at Pittsburgh, PA",
+    "game_url": "/cbb/boxscores/2022-03-20-12-illinois.html",
+    "winner": {
+      "name": "Houston",
+      "rank": "5",
+      "score": "68",
+      "team_url": "/cbb/schools/houston/men/2022.html"
+    },
+    "loser": {
+      "name": "Illinois",
+      "rank": "4",
+      "score": "53",
+      "team_url": "/cbb/schools/illinois/men/2022.html"
+    }
+  },
+  {
+    "division": "south",
+    "game_id": 41,
+    "round_num": 2,
+    "location": "at Indianapolis, IN",
+    "game_url": "/cbb/boxscores/2022-03-19-17-tennessee.html",
+    "winner": {
+      "name": "Michigan",
+      "rank": "11",
+      "score": "76",
+      "team_url": "/cbb/schools/michigan/men/2022.html"
+    },
+    "loser": {
+      "name": "Tennessee",
+      "rank": "3",
+      "score": "68",
+      "team_url": "/cbb/schools/tennessee/men/2022.html"
+    }
+  },
+  {
+    "division": "south",
+    "game_id": 42,
+    "round_num": 2,
+    "location": "at Pittsburgh, PA",
+    "game_url": "/cbb/boxscores/2022-03-20-14-villanova.html",
+    "loser": {
+      "name": "Ohio State",
+      "rank": "7",
+      "score": "61",
+      "team_url": "/cbb/schools/ohio-state/men/2022.html"
+    },
+    "winner": {
+      "name": "Villanova",
+      "rank": "2",
+      "score": "71",
+      "team_url": "/cbb/schools/villanova/men/2022.html"
+    }
+  },
+  {
+    "division": "south",
+    "game_id": 43,
+    "round_num": 3,
+    "location": "at San Antonio, TX",
+    "game_url": "/cbb/boxscores/2022-03-24-21-arizona.html",
+    "loser": {
+      "name": "Arizona",
+      "rank": "1",
+      "score": "60",
+      "team_url": "/cbb/schools/arizona/men/2022.html"
+    },
+    "winner": {
+      "name": "Houston",
+      "rank": "5",
+      "score": "72",
+      "team_url": "/cbb/schools/houston/men/2022.html"
+    }
+  },
+  {
+    "division": "south",
+    "game_id": 44,
+    "round_num": 3,
+    "location": "at San Antonio, TX",
+    "game_url": "/cbb/boxscores/2022-03-24-19-villanova.html",
+    "loser": {
+      "name": "Michigan",
+      "rank": "11",
+      "score": "55",
+      "team_url": "/cbb/schools/michigan/men/2022.html"
+    },
+    "winner": {
+      "name": "Villanova",
+      "rank": "2",
+      "score": "63",
+      "team_url": "/cbb/schools/villanova/men/2022.html"
+    }
+  },
+  {
+    "division": "south",
+    "game_id": 45,
+    "round_num": 4,
+    "location": "at San Antonio, TX",
+    "game_url": "/cbb/boxscores/2022-03-26-18-villanova.html",
+    "loser": {
+      "name": "Houston",
+      "rank": "5",
+      "score": "44",
+      "team_url": "/cbb/schools/houston/men/2022.html"
+    },
+    "winner": {
+      "name": "Villanova",
+      "rank": "2",
+      "score": "50",
+      "team_url": "/cbb/schools/villanova/men/2022.html"
+    }
+  },
+  {
+    "division": "west",
+    "game_id": 46,
+    "round_num": 1,
+    "location": "at Portland, OR",
+    "game_url": "/cbb/boxscores/2022-03-17-16-gonzaga.html",
+    "winner": {
+      "name": "Gonzaga",
+      "rank": "1",
+      "score": "93",
+      "team_url": "/cbb/schools/gonzaga/men/2022.html"
+    },
+    "loser": {
+      "name": "Georgia State",
+      "rank": "16",
+      "score": "72",
+      "team_url": "/cbb/schools/georgia-state/men/2022.html"
+    }
+  },
+  {
+    "division": "west",
+    "game_id": 47,
+    "round_num": 1,
+    "location": "at Portland, OR",
+    "game_url": "/cbb/boxscores/2022-03-17-13-boise-state.html",
+    "loser": {
+      "name": "Boise State",
+      "rank": "8",
+      "score": "53",
+      "team_url": "/cbb/schools/boise-state/men/2022.html"
+    },
+    "winner": {
+      "name": "Memphis",
+      "rank": "9",
+      "score": "64",
+      "team_url": "/cbb/schools/memphis/men/2022.html"
+    }
+  },
+  {
+    "division": "west",
+    "game_id": 48,
+    "round_num": 1,
+    "location": "at Buffalo, NY",
+    "game_url": "/cbb/boxscores/2022-03-17-18-connecticut.html",
+    "loser": {
+      "name": "UConn",
+      "rank": "5",
+      "score": "63",
+      "team_url": "/cbb/schools/connecticut/men/2022.html"
+    },
+    "winner": {
+      "name": "New Mexico State",
+      "rank": "12",
+      "score": "70",
+      "team_url": "/cbb/schools/new-mexico-state/men/2022.html"
+    }
+  },
+  {
+    "division": "west",
+    "game_id": 49,
+    "round_num": 1,
+    "location": "at Buffalo, NY",
+    "game_url": "/cbb/boxscores/2022-03-17-21-arkansas.html",
+    "winner": {
+      "name": "Arkansas",
+      "rank": "4",
+      "score": "75",
+      "team_url": "/cbb/schools/arkansas/men/2022.html"
+    },
+    "loser": {
+      "name": "Vermont",
+      "rank": "13",
+      "score": "71",
+      "team_url": "/cbb/schools/vermont/men/2022.html"
+    }
+  },
+  {
+    "division": "west",
+    "game_id": 50,
+    "round_num": 1,
+    "location": "at San Diego, CA",
+    "game_url": "/cbb/boxscores/2022-03-18-16-alabama.html",
+    "loser": {
+      "name": "Alabama",
+      "rank": "6",
+      "score": "64",
+      "team_url": "/cbb/schools/alabama/men/2022.html"
+    },
+    "winner": {
+      "name": "Notre Dame",
+      "rank": "11",
+      "score": "78",
+      "team_url": "/cbb/schools/notre-dame/men/2022.html"
+    }
+  },
+  {
+    "division": "west",
+    "game_id": 51,
+    "round_num": 1,
+    "location": "at San Diego, CA",
+    "game_url": "/cbb/boxscores/2022-03-18-13-texas-tech.html",
+    "winner": {
+      "name": "Texas Tech",
+      "rank": "3",
+      "score": "97",
+      "team_url": "/cbb/schools/texas-tech/men/2022.html"
+    },
+    "loser": {
+      "name": "Montana State",
+      "rank": "14",
+      "score": "62",
+      "team_url": "/cbb/schools/montana-state/men/2022.html"
+    }
+  },
+  {
+    "division": "west",
+    "game_id": 52,
+    "round_num": 1,
+    "location": "at Greenville, SC",
+    "game_url": "/cbb/boxscores/2022-03-18-21-michigan-state.html",
+    "winner": {
+      "name": "Michigan State",
+      "rank": "7",
+      "score": "74",
+      "team_url": "/cbb/schools/michigan-state/men/2022.html"
+    },
+    "loser": {
+      "name": "Davidson",
+      "rank": "10",
+      "score": "73",
+      "team_url": "/cbb/schools/davidson/men/2022.html"
+    }
+  },
+  {
+    "division": "west",
+    "game_id": 53,
+    "round_num": 1,
+    "location": "at Greenville, SC",
+    "game_url": "/cbb/boxscores/2022-03-18-19-duke.html",
+    "winner": {
+      "name": "Duke",
+      "rank": "2",
+      "score": "78",
+      "team_url": "/cbb/schools/duke/men/2022.html"
+    },
+    "loser": {
+      "name": "Cal State Fullerton",
+      "rank": "15",
+      "score": "61",
+      "team_url": "/cbb/schools/cal-state-fullerton/men/2022.html"
+    }
+  },
+  {
+    "division": "west",
+    "game_id": 54,
+    "round_num": 2,
+    "location": "at Portland, OR",
+    "game_url": "/cbb/boxscores/2022-03-19-21-gonzaga.html",
+    "winner": {
+      "name": "Gonzaga",
+      "rank": "1",
+      "score": "82",
+      "team_url": "/cbb/schools/gonzaga/men/2022.html"
+    },
+    "loser": {
+      "name": "Memphis",
+      "rank": "9",
+      "score": "78",
+      "team_url": "/cbb/schools/memphis/men/2022.html"
+    }
+  },
+  {
+    "division": "west",
+    "game_id": 55,
+    "round_num": 2,
+    "location": "at Buffalo, NY",
+    "game_url": "/cbb/boxscores/2022-03-19-20-arkansas.html",
+    "loser": {
+      "name": "New Mexico State",
+      "rank": "12",
+      "score": "48",
+      "team_url": "/cbb/schools/new-mexico-state/men/2022.html"
+    },
+    "winner": {
+      "name": "Arkansas",
+      "rank": "4",
+      "score": "53",
+      "team_url": "/cbb/schools/arkansas/men/2022.html"
+    }
+  },
+  {
+    "division": "west",
+    "game_id": 56,
+    "round_num": 2,
+    "location": "at San Diego, CA",
+    "game_url": "/cbb/boxscores/2022-03-20-19-texas-tech.html",
+    "loser": {
+      "name": "Notre Dame",
+      "rank": "11",
+      "score": "53",
+      "team_url": "/cbb/schools/notre-dame/men/2022.html"
+    },
+    "winner": {
+      "name": "Texas Tech",
+      "rank": "3",
+      "score": "59",
+      "team_url": "/cbb/schools/texas-tech/men/2022.html"
+    }
+  },
+  {
+    "division": "west",
+    "game_id": 57,
+    "round_num": 2,
+    "location": "at Greenville, SC",
+    "game_url": "/cbb/boxscores/2022-03-20-17-duke.html",
+    "loser": {
+      "name": "Michigan State",
+      "rank": "7",
+      "score": "76",
+      "team_url": "/cbb/schools/michigan-state/men/2022.html"
+    },
+    "winner": {
+      "name": "Duke",
+      "rank": "2",
+      "score": "85",
+      "team_url": "/cbb/schools/duke/men/2022.html"
+    }
+  },
+  {
+    "division": "west",
+    "game_id": 58,
+    "round_num": 3,
+    "location": "at San Francisco, CA",
+    "game_url": "/cbb/boxscores/2022-03-24-19-gonzaga.html",
+    "loser": {
+      "name": "Gonzaga",
+      "rank": "1",
+      "score": "68",
+      "team_url": "/cbb/schools/gonzaga/men/2022.html"
+    },
+    "winner": {
+      "name": "Arkansas",
+      "rank": "4",
+      "score": "74",
+      "team_url": "/cbb/schools/arkansas/men/2022.html"
+    }
+  },
+  {
+    "division": "west",
+    "game_id": 59,
+    "round_num": 3,
+    "location": "at San Francisco, CA",
+    "game_url": "/cbb/boxscores/2022-03-24-21-duke.html",
+    "loser": {
+      "name": "Texas Tech",
+      "rank": "3",
+      "score": "73",
+      "team_url": "/cbb/schools/texas-tech/men/2022.html"
+    },
+    "winner": {
+      "name": "Duke",
+      "rank": "2",
+      "score": "78",
+      "team_url": "/cbb/schools/duke/men/2022.html"
+    }
+  },
+  {
+    "division": "west",
+    "game_id": 60,
+    "round_num": 4,
+    "location": "at San Francisco, CA",
+    "game_url": "/cbb/boxscores/2022-03-26-20-duke.html",
+    "loser": {
+      "name": "Arkansas",
+      "rank": "4",
+      "score": "69",
+      "team_url": "/cbb/schools/arkansas/men/2022.html"
+    },
+    "winner": {
+      "name": "Duke",
+      "rank": "2",
+      "score": "78",
+      "team_url": "/cbb/schools/duke/men/2022.html"
+    }
+  },
+  {
+    "division": "national",
+    "game_id": 61,
+    "round_num": 4,
+    "location": "at New Orleans, LA",
+    "game_url": "/cbb/boxscores/2022-04-02-18-kansas.html",
+    "loser": {
+      "name": "Villanova",
+      "rank": "2",
+      "score": "65",
+      "team_url": "/cbb/schools/villanova/men/2022.html"
+    },
+    "winner": {
+      "name": "Kansas",
+      "rank": "1",
+      "score": "81",
+      "team_url": "/cbb/schools/kansas/men/2022.html"
+    }
+  },
+  {
+    "division": "national",
+    "game_id": 62,
+    "round_num": 4,
+    "location": "at New Orleans, LA",
+    "game_url": "/cbb/boxscores/2022-04-02-20-duke.html",
+    "loser": {
+      "name": "Duke",
+      "rank": "2",
+      "score": "77",
+      "team_url": "/cbb/schools/duke/men/2022.html"
+    },
+    "winner": {
+      "name": "UNC",
+      "rank": "8",
+      "score": "81",
+      "team_url": "/cbb/schools/north-carolina/men/2022.html"
+    }
+  },
+  {
+    "division": "national",
+    "game_id": 63,
+    "round_num": 5,
+    "location": "at New Orleans, LA",
+    "game_url": "/cbb/boxscores/2022-04-04-21-kansas.html",
+    "winner": {
+      "name": "Kansas",
+      "rank": "1",
+      "score": "72",
+      "team_url": "/cbb/schools/kansas/men/2022.html"
+    },
+    "loser": {
+      "name": "UNC",
+      "rank": "8",
+      "score": "69",
+      "team_url": "/cbb/schools/north-carolina/men/2022.html"
+    }
+  }
+]
