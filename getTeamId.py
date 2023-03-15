@@ -7,21 +7,22 @@ f.close()
 # print("from GET TEAM ID", teamJsonObject)
 
 
-def getTeamId(teamName):  # takes in string of team name
-    team = next((team for team in teamJsonObject if team['name'] == teamName), None)
+def getTeamId(teamTextId):  # takes in the url route of team to id
+    team = next((team for team in teamJsonObject if team['textId'] == teamTextId), None)
+    print(team)
     if team:
         return team['id']
     else:
-        newId = len(teamJsonObject) + 1
-        addTeam(teamName, newId)
-        return newId
+        print("Team not found")
+        return None
 
 
-def addTeam(teamName, newId):
+def addTeam(teamName, teamTextId, teamUrl):
     with open("teamIds.json", "r+") as f:
         data = json.load(f)
-        newTeam = {"id": newId, "name": teamName}
+        newTeam = {"id": len(data) + 1, "name": teamName, "textId": teamTextId, "url":teamUrl}
         data.append(newTeam)
+        print("added to team.json")
         f.seek(0)
         json.dump(data, f, indent=2)
         f.truncate()

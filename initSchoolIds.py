@@ -12,7 +12,10 @@ for school in getSchoolsTable(suffix_url):
     if not school.has_attr("class"):
         headerCol = school.find("th")
         schoolCol = school.find("td", {"data-stat": "school_name"})
-        teamObj = {"id": int(headerCol.text), "name": schoolCol.find('a').text}
+        schoolUrl = school.find('a')['href']
+        urlArray = schoolUrl.split("/")
+        textId = urlArray[3] #splits the /cbb/men/<school>/<year>.html into array, the individual school route should be 4th index
+        teamObj = {"id": int(headerCol.text), "name": schoolCol.find('a').text, "url": schoolUrl, "textId": textId}
         teams.append(teamObj)
 
 print(teams)

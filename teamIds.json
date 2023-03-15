@@ -1,1454 +1,2186 @@
 [
   {
     "id": 1,
-    "name": "Abilene Christian"
+    "name": "Abilene Christian",
+    "url": "/cbb/schools/abilene-christian/men/2023.html",
+    "textId": "abilene-christian"
   },
   {
     "id": 2,
-    "name": "Air Force"
+    "name": "Air Force",
+    "url": "/cbb/schools/air-force/men/2023.html",
+    "textId": "air-force"
   },
   {
     "id": 3,
-    "name": "Akron"
+    "name": "Akron",
+    "url": "/cbb/schools/akron/men/2023.html",
+    "textId": "akron"
   },
   {
     "id": 4,
-    "name": "Alabama"
+    "name": "Alabama",
+    "url": "/cbb/schools/alabama/men/2023.html",
+    "textId": "alabama"
   },
   {
     "id": 5,
-    "name": "Alabama A&M"
+    "name": "Alabama A&M",
+    "url": "/cbb/schools/alabama-am/men/2023.html",
+    "textId": "alabama-am"
   },
   {
     "id": 6,
-    "name": "Alabama State"
+    "name": "Alabama State",
+    "url": "/cbb/schools/alabama-state/men/2023.html",
+    "textId": "alabama-state"
   },
   {
     "id": 7,
-    "name": "Albany (NY)"
+    "name": "Albany (NY)",
+    "url": "/cbb/schools/albany-ny/men/2023.html",
+    "textId": "albany-ny"
   },
   {
     "id": 8,
-    "name": "Alcorn State"
+    "name": "Alcorn State",
+    "url": "/cbb/schools/alcorn-state/men/2023.html",
+    "textId": "alcorn-state"
   },
   {
     "id": 9,
-    "name": "American"
+    "name": "American",
+    "url": "/cbb/schools/american/men/2023.html",
+    "textId": "american"
   },
   {
     "id": 10,
-    "name": "Appalachian State"
+    "name": "Appalachian State",
+    "url": "/cbb/schools/appalachian-state/men/2023.html",
+    "textId": "appalachian-state"
   },
   {
     "id": 11,
-    "name": "Arizona"
+    "name": "Arizona",
+    "url": "/cbb/schools/arizona/men/2023.html",
+    "textId": "arizona"
   },
   {
     "id": 12,
-    "name": "Arizona State"
+    "name": "Arizona State",
+    "url": "/cbb/schools/arizona-state/men/2023.html",
+    "textId": "arizona-state"
   },
   {
     "id": 13,
-    "name": "Arkansas"
+    "name": "Arkansas",
+    "url": "/cbb/schools/arkansas/men/2023.html",
+    "textId": "arkansas"
   },
   {
     "id": 14,
-    "name": "Arkansas State"
+    "name": "Arkansas State",
+    "url": "/cbb/schools/arkansas-state/men/2023.html",
+    "textId": "arkansas-state"
   },
   {
     "id": 15,
-    "name": "Arkansas-Pine Bluff"
+    "name": "Arkansas-Pine Bluff",
+    "url": "/cbb/schools/arkansas-pine-bluff/men/2023.html",
+    "textId": "arkansas-pine-bluff"
   },
   {
     "id": 16,
-    "name": "Army"
+    "name": "Army",
+    "url": "/cbb/schools/army/men/2023.html",
+    "textId": "army"
   },
   {
     "id": 17,
-    "name": "Auburn"
+    "name": "Auburn",
+    "url": "/cbb/schools/auburn/men/2023.html",
+    "textId": "auburn"
   },
   {
     "id": 18,
-    "name": "Austin Peay"
+    "name": "Austin Peay",
+    "url": "/cbb/schools/austin-peay/men/2023.html",
+    "textId": "austin-peay"
   },
   {
     "id": 19,
-    "name": "Ball State"
+    "name": "Ball State",
+    "url": "/cbb/schools/ball-state/men/2023.html",
+    "textId": "ball-state"
   },
   {
     "id": 20,
-    "name": "Baylor"
+    "name": "Baylor",
+    "url": "/cbb/schools/baylor/men/2023.html",
+    "textId": "baylor"
   },
   {
     "id": 21,
-    "name": "Bellarmine"
+    "name": "Bellarmine",
+    "url": "/cbb/schools/bellarmine/men/2023.html",
+    "textId": "bellarmine"
   },
   {
     "id": 22,
-    "name": "Belmont"
+    "name": "Belmont",
+    "url": "/cbb/schools/belmont/men/2023.html",
+    "textId": "belmont"
   },
   {
     "id": 23,
-    "name": "Bethune-Cookman"
+    "name": "Bethune-Cookman",
+    "url": "/cbb/schools/bethune-cookman/men/2023.html",
+    "textId": "bethune-cookman"
   },
   {
     "id": 24,
-    "name": "Binghamton"
+    "name": "Binghamton",
+    "url": "/cbb/schools/binghamton/men/2023.html",
+    "textId": "binghamton"
   },
   {
     "id": 25,
-    "name": "Boise State"
+    "name": "Boise State",
+    "url": "/cbb/schools/boise-state/men/2023.html",
+    "textId": "boise-state"
   },
   {
     "id": 26,
-    "name": "Boston College"
+    "name": "Boston College",
+    "url": "/cbb/schools/boston-college/men/2023.html",
+    "textId": "boston-college"
   },
   {
     "id": 27,
-    "name": "Boston University"
+    "name": "Boston University",
+    "url": "/cbb/schools/boston-university/men/2023.html",
+    "textId": "boston-university"
   },
   {
     "id": 28,
-    "name": "Bowling Green State"
+    "name": "Bowling Green State",
+    "url": "/cbb/schools/bowling-green-state/men/2023.html",
+    "textId": "bowling-green-state"
   },
   {
     "id": 29,
-    "name": "Bradley"
+    "name": "Bradley",
+    "url": "/cbb/schools/bradley/men/2023.html",
+    "textId": "bradley"
   },
   {
     "id": 30,
-    "name": "Brigham Young"
+    "name": "Brigham Young",
+    "url": "/cbb/schools/brigham-young/men/2023.html",
+    "textId": "brigham-young"
   },
   {
     "id": 31,
-    "name": "Brown"
+    "name": "Brown",
+    "url": "/cbb/schools/brown/men/2023.html",
+    "textId": "brown"
   },
   {
     "id": 32,
-    "name": "Bryant"
+    "name": "Bryant",
+    "url": "/cbb/schools/bryant/men/2023.html",
+    "textId": "bryant"
   },
   {
     "id": 33,
-    "name": "Bucknell"
+    "name": "Bucknell",
+    "url": "/cbb/schools/bucknell/men/2023.html",
+    "textId": "bucknell"
   },
   {
     "id": 34,
-    "name": "Buffalo"
+    "name": "Buffalo",
+    "url": "/cbb/schools/buffalo/men/2023.html",
+    "textId": "buffalo"
   },
   {
     "id": 35,
-    "name": "Butler"
+    "name": "Butler",
+    "url": "/cbb/schools/butler/men/2023.html",
+    "textId": "butler"
   },
   {
     "id": 36,
-    "name": "Cal Poly"
+    "name": "Cal Poly",
+    "url": "/cbb/schools/cal-poly/men/2023.html",
+    "textId": "cal-poly"
   },
   {
     "id": 37,
-    "name": "Cal State Bakersfield"
+    "name": "Cal State Bakersfield",
+    "url": "/cbb/schools/cal-state-bakersfield/men/2023.html",
+    "textId": "cal-state-bakersfield"
   },
   {
     "id": 38,
-    "name": "Cal State Fullerton"
+    "name": "Cal State Fullerton",
+    "url": "/cbb/schools/cal-state-fullerton/men/2023.html",
+    "textId": "cal-state-fullerton"
   },
   {
     "id": 39,
-    "name": "Cal State Northridge"
+    "name": "Cal State Northridge",
+    "url": "/cbb/schools/cal-state-northridge/men/2023.html",
+    "textId": "cal-state-northridge"
   },
   {
     "id": 40,
-    "name": "California"
+    "name": "California",
+    "url": "/cbb/schools/california/men/2023.html",
+    "textId": "california"
   },
   {
     "id": 41,
-    "name": "California Baptist"
+    "name": "California Baptist",
+    "url": "/cbb/schools/california-baptist/men/2023.html",
+    "textId": "california-baptist"
   },
   {
     "id": 42,
-    "name": "Campbell"
+    "name": "Campbell",
+    "url": "/cbb/schools/campbell/men/2023.html",
+    "textId": "campbell"
   },
   {
     "id": 43,
-    "name": "Canisius"
+    "name": "Canisius",
+    "url": "/cbb/schools/canisius/men/2023.html",
+    "textId": "canisius"
   },
   {
     "id": 44,
-    "name": "Central Arkansas"
+    "name": "Central Arkansas",
+    "url": "/cbb/schools/central-arkansas/men/2023.html",
+    "textId": "central-arkansas"
   },
   {
     "id": 45,
-    "name": "Central Connecticut State"
+    "name": "Central Connecticut State",
+    "url": "/cbb/schools/central-connecticut-state/men/2023.html",
+    "textId": "central-connecticut-state"
   },
   {
     "id": 46,
-    "name": "Central Florida"
+    "name": "Central Florida",
+    "url": "/cbb/schools/central-florida/men/2023.html",
+    "textId": "central-florida"
   },
   {
     "id": 47,
-    "name": "Central Michigan"
+    "name": "Central Michigan",
+    "url": "/cbb/schools/central-michigan/men/2023.html",
+    "textId": "central-michigan"
   },
   {
     "id": 48,
-    "name": "Charleston Southern"
+    "name": "Charleston Southern",
+    "url": "/cbb/schools/charleston-southern/men/2023.html",
+    "textId": "charleston-southern"
   },
   {
     "id": 49,
-    "name": "Charlotte"
+    "name": "Charlotte",
+    "url": "/cbb/schools/charlotte/men/2023.html",
+    "textId": "charlotte"
   },
   {
     "id": 50,
-    "name": "Chattanooga"
+    "name": "Chattanooga",
+    "url": "/cbb/schools/chattanooga/men/2023.html",
+    "textId": "chattanooga"
   },
   {
     "id": 51,
-    "name": "Chicago State"
+    "name": "Chicago State",
+    "url": "/cbb/schools/chicago-state/men/2023.html",
+    "textId": "chicago-state"
   },
   {
     "id": 52,
-    "name": "Cincinnati"
+    "name": "Cincinnati",
+    "url": "/cbb/schools/cincinnati/men/2023.html",
+    "textId": "cincinnati"
   },
   {
     "id": 53,
-    "name": "Clemson"
+    "name": "Clemson",
+    "url": "/cbb/schools/clemson/men/2023.html",
+    "textId": "clemson"
   },
   {
     "id": 54,
-    "name": "Cleveland State"
+    "name": "Cleveland State",
+    "url": "/cbb/schools/cleveland-state/men/2023.html",
+    "textId": "cleveland-state"
   },
   {
     "id": 55,
-    "name": "Coastal Carolina"
+    "name": "Coastal Carolina",
+    "url": "/cbb/schools/coastal-carolina/men/2023.html",
+    "textId": "coastal-carolina"
   },
   {
     "id": 56,
-    "name": "Colgate"
+    "name": "Colgate",
+    "url": "/cbb/schools/colgate/men/2023.html",
+    "textId": "colgate"
   },
   {
     "id": 57,
-    "name": "College of Charleston"
+    "name": "College of Charleston",
+    "url": "/cbb/schools/college-of-charleston/men/2023.html",
+    "textId": "college-of-charleston"
   },
   {
     "id": 58,
-    "name": "Colorado"
+    "name": "Colorado",
+    "url": "/cbb/schools/colorado/men/2023.html",
+    "textId": "colorado"
   },
   {
     "id": 59,
-    "name": "Colorado State"
+    "name": "Colorado State",
+    "url": "/cbb/schools/colorado-state/men/2023.html",
+    "textId": "colorado-state"
   },
   {
     "id": 60,
-    "name": "Columbia"
+    "name": "Columbia",
+    "url": "/cbb/schools/columbia/men/2023.html",
+    "textId": "columbia"
   },
   {
     "id": 61,
-    "name": "Connecticut"
+    "name": "Connecticut",
+    "url": "/cbb/schools/connecticut/men/2023.html",
+    "textId": "connecticut"
   },
   {
     "id": 62,
-    "name": "Coppin State"
+    "name": "Coppin State",
+    "url": "/cbb/schools/coppin-state/men/2023.html",
+    "textId": "coppin-state"
   },
   {
     "id": 63,
-    "name": "Cornell"
+    "name": "Cornell",
+    "url": "/cbb/schools/cornell/men/2023.html",
+    "textId": "cornell"
   },
   {
     "id": 64,
-    "name": "Creighton"
+    "name": "Creighton",
+    "url": "/cbb/schools/creighton/men/2023.html",
+    "textId": "creighton"
   },
   {
     "id": 65,
-    "name": "Dartmouth"
+    "name": "Dartmouth",
+    "url": "/cbb/schools/dartmouth/men/2023.html",
+    "textId": "dartmouth"
   },
   {
     "id": 66,
-    "name": "Davidson"
+    "name": "Davidson",
+    "url": "/cbb/schools/davidson/men/2023.html",
+    "textId": "davidson"
   },
   {
     "id": 67,
-    "name": "Dayton"
+    "name": "Dayton",
+    "url": "/cbb/schools/dayton/men/2023.html",
+    "textId": "dayton"
   },
   {
     "id": 68,
-    "name": "Delaware"
+    "name": "Delaware",
+    "url": "/cbb/schools/delaware/men/2023.html",
+    "textId": "delaware"
   },
   {
     "id": 69,
-    "name": "Delaware State"
+    "name": "Delaware State",
+    "url": "/cbb/schools/delaware-state/men/2023.html",
+    "textId": "delaware-state"
   },
   {
     "id": 70,
-    "name": "Denver"
+    "name": "Denver",
+    "url": "/cbb/schools/denver/men/2023.html",
+    "textId": "denver"
   },
   {
     "id": 71,
-    "name": "DePaul"
+    "name": "DePaul",
+    "url": "/cbb/schools/depaul/men/2023.html",
+    "textId": "depaul"
   },
   {
     "id": 72,
-    "name": "Detroit Mercy"
+    "name": "Detroit Mercy",
+    "url": "/cbb/schools/detroit-mercy/men/2023.html",
+    "textId": "detroit-mercy"
   },
   {
     "id": 73,
-    "name": "Drake"
+    "name": "Drake",
+    "url": "/cbb/schools/drake/men/2023.html",
+    "textId": "drake"
   },
   {
     "id": 74,
-    "name": "Drexel"
+    "name": "Drexel",
+    "url": "/cbb/schools/drexel/men/2023.html",
+    "textId": "drexel"
   },
   {
     "id": 75,
-    "name": "Duke"
+    "name": "Duke",
+    "url": "/cbb/schools/duke/men/2023.html",
+    "textId": "duke"
   },
   {
     "id": 76,
-    "name": "Duquesne"
+    "name": "Duquesne",
+    "url": "/cbb/schools/duquesne/men/2023.html",
+    "textId": "duquesne"
   },
   {
     "id": 77,
-    "name": "East Carolina"
+    "name": "East Carolina",
+    "url": "/cbb/schools/east-carolina/men/2023.html",
+    "textId": "east-carolina"
   },
   {
     "id": 78,
-    "name": "East Tennessee State"
+    "name": "East Tennessee State",
+    "url": "/cbb/schools/east-tennessee-state/men/2023.html",
+    "textId": "east-tennessee-state"
   },
   {
     "id": 79,
-    "name": "Eastern Illinois"
+    "name": "Eastern Illinois",
+    "url": "/cbb/schools/eastern-illinois/men/2023.html",
+    "textId": "eastern-illinois"
   },
   {
     "id": 80,
-    "name": "Eastern Kentucky"
+    "name": "Eastern Kentucky",
+    "url": "/cbb/schools/eastern-kentucky/men/2023.html",
+    "textId": "eastern-kentucky"
   },
   {
     "id": 81,
-    "name": "Eastern Michigan"
+    "name": "Eastern Michigan",
+    "url": "/cbb/schools/eastern-michigan/men/2023.html",
+    "textId": "eastern-michigan"
   },
   {
     "id": 82,
-    "name": "Eastern Washington"
+    "name": "Eastern Washington",
+    "url": "/cbb/schools/eastern-washington/men/2023.html",
+    "textId": "eastern-washington"
   },
   {
     "id": 83,
-    "name": "Elon"
+    "name": "Elon",
+    "url": "/cbb/schools/elon/men/2023.html",
+    "textId": "elon"
   },
   {
     "id": 84,
-    "name": "Evansville"
+    "name": "Evansville",
+    "url": "/cbb/schools/evansville/men/2023.html",
+    "textId": "evansville"
   },
   {
     "id": 85,
-    "name": "Fairfield"
+    "name": "Fairfield",
+    "url": "/cbb/schools/fairfield/men/2023.html",
+    "textId": "fairfield"
   },
   {
     "id": 86,
-    "name": "Fairleigh Dickinson"
+    "name": "Fairleigh Dickinson",
+    "url": "/cbb/schools/fairleigh-dickinson/men/2023.html",
+    "textId": "fairleigh-dickinson"
   },
   {
     "id": 87,
-    "name": "Florida"
+    "name": "Florida",
+    "url": "/cbb/schools/florida/men/2023.html",
+    "textId": "florida"
   },
   {
     "id": 88,
-    "name": "Florida A&M"
+    "name": "Florida A&M",
+    "url": "/cbb/schools/florida-am/men/2023.html",
+    "textId": "florida-am"
   },
   {
     "id": 89,
-    "name": "Florida Atlantic"
+    "name": "Florida Atlantic",
+    "url": "/cbb/schools/florida-atlantic/men/2023.html",
+    "textId": "florida-atlantic"
   },
   {
     "id": 90,
-    "name": "Florida Gulf Coast"
+    "name": "Florida Gulf Coast",
+    "url": "/cbb/schools/florida-gulf-coast/men/2023.html",
+    "textId": "florida-gulf-coast"
   },
   {
     "id": 91,
-    "name": "Florida International"
+    "name": "Florida International",
+    "url": "/cbb/schools/florida-international/men/2023.html",
+    "textId": "florida-international"
   },
   {
     "id": 92,
-    "name": "Florida State"
+    "name": "Florida State",
+    "url": "/cbb/schools/florida-state/men/2023.html",
+    "textId": "florida-state"
   },
   {
     "id": 93,
-    "name": "Fordham"
+    "name": "Fordham",
+    "url": "/cbb/schools/fordham/men/2023.html",
+    "textId": "fordham"
   },
   {
     "id": 94,
-    "name": "Fresno State"
+    "name": "Fresno State",
+    "url": "/cbb/schools/fresno-state/men/2023.html",
+    "textId": "fresno-state"
   },
   {
     "id": 95,
-    "name": "Furman"
+    "name": "Furman",
+    "url": "/cbb/schools/furman/men/2023.html",
+    "textId": "furman"
   },
   {
     "id": 96,
-    "name": "Gardner-Webb"
+    "name": "Gardner-Webb",
+    "url": "/cbb/schools/gardner-webb/men/2023.html",
+    "textId": "gardner-webb"
   },
   {
     "id": 97,
-    "name": "George Mason"
+    "name": "George Mason",
+    "url": "/cbb/schools/george-mason/men/2023.html",
+    "textId": "george-mason"
   },
   {
     "id": 98,
-    "name": "George Washington"
+    "name": "George Washington",
+    "url": "/cbb/schools/george-washington/men/2023.html",
+    "textId": "george-washington"
   },
   {
     "id": 99,
-    "name": "Georgetown"
+    "name": "Georgetown",
+    "url": "/cbb/schools/georgetown/men/2023.html",
+    "textId": "georgetown"
   },
   {
     "id": 100,
-    "name": "Georgia"
+    "name": "Georgia",
+    "url": "/cbb/schools/georgia/men/2023.html",
+    "textId": "georgia"
   },
   {
     "id": 101,
-    "name": "Georgia Southern"
+    "name": "Georgia Southern",
+    "url": "/cbb/schools/georgia-southern/men/2023.html",
+    "textId": "georgia-southern"
   },
   {
     "id": 102,
-    "name": "Georgia State"
+    "name": "Georgia State",
+    "url": "/cbb/schools/georgia-state/men/2023.html",
+    "textId": "georgia-state"
   },
   {
     "id": 103,
-    "name": "Georgia Tech"
+    "name": "Georgia Tech",
+    "url": "/cbb/schools/georgia-tech/men/2023.html",
+    "textId": "georgia-tech"
   },
   {
     "id": 104,
-    "name": "Gonzaga"
+    "name": "Gonzaga",
+    "url": "/cbb/schools/gonzaga/men/2023.html",
+    "textId": "gonzaga"
   },
   {
     "id": 105,
-    "name": "Grambling"
+    "name": "Grambling",
+    "url": "/cbb/schools/grambling/men/2023.html",
+    "textId": "grambling"
   },
   {
     "id": 106,
-    "name": "Grand Canyon"
+    "name": "Grand Canyon",
+    "url": "/cbb/schools/grand-canyon/men/2023.html",
+    "textId": "grand-canyon"
   },
   {
     "id": 107,
-    "name": "Green Bay"
+    "name": "Green Bay",
+    "url": "/cbb/schools/green-bay/men/2023.html",
+    "textId": "green-bay"
   },
   {
     "id": 108,
-    "name": "Hampton"
+    "name": "Hampton",
+    "url": "/cbb/schools/hampton/men/2023.html",
+    "textId": "hampton"
   },
   {
     "id": 109,
-    "name": "Hartford"
+    "name": "Hartford",
+    "url": "/cbb/schools/hartford/men/2023.html",
+    "textId": "hartford"
   },
   {
     "id": 110,
-    "name": "Harvard"
+    "name": "Harvard",
+    "url": "/cbb/schools/harvard/men/2023.html",
+    "textId": "harvard"
   },
   {
     "id": 111,
-    "name": "Hawaii"
+    "name": "Hawaii",
+    "url": "/cbb/schools/hawaii/men/2023.html",
+    "textId": "hawaii"
   },
   {
     "id": 112,
-    "name": "High Point"
+    "name": "High Point",
+    "url": "/cbb/schools/high-point/men/2023.html",
+    "textId": "high-point"
   },
   {
     "id": 113,
-    "name": "Hofstra"
+    "name": "Hofstra",
+    "url": "/cbb/schools/hofstra/men/2023.html",
+    "textId": "hofstra"
   },
   {
     "id": 114,
-    "name": "Holy Cross"
+    "name": "Holy Cross",
+    "url": "/cbb/schools/holy-cross/men/2023.html",
+    "textId": "holy-cross"
   },
   {
     "id": 115,
-    "name": "Houston"
+    "name": "Houston",
+    "url": "/cbb/schools/houston/men/2023.html",
+    "textId": "houston"
   },
   {
     "id": 116,
-    "name": "Houston Christian"
+    "name": "Houston Christian",
+    "url": "/cbb/schools/houston-baptist/men/2023.html",
+    "textId": "houston-baptist"
   },
   {
     "id": 117,
-    "name": "Howard"
+    "name": "Howard",
+    "url": "/cbb/schools/howard/men/2023.html",
+    "textId": "howard"
   },
   {
     "id": 118,
-    "name": "Idaho"
+    "name": "Idaho",
+    "url": "/cbb/schools/idaho/men/2023.html",
+    "textId": "idaho"
   },
   {
     "id": 119,
-    "name": "Idaho State"
+    "name": "Idaho State",
+    "url": "/cbb/schools/idaho-state/men/2023.html",
+    "textId": "idaho-state"
   },
   {
     "id": 120,
-    "name": "Illinois"
+    "name": "Illinois",
+    "url": "/cbb/schools/illinois/men/2023.html",
+    "textId": "illinois"
   },
   {
     "id": 121,
-    "name": "Illinois State"
+    "name": "Illinois State",
+    "url": "/cbb/schools/illinois-state/men/2023.html",
+    "textId": "illinois-state"
   },
   {
     "id": 122,
-    "name": "Illinois-Chicago"
+    "name": "Illinois-Chicago",
+    "url": "/cbb/schools/illinois-chicago/men/2023.html",
+    "textId": "illinois-chicago"
   },
   {
     "id": 123,
-    "name": "Incarnate Word"
+    "name": "Incarnate Word",
+    "url": "/cbb/schools/incarnate-word/men/2023.html",
+    "textId": "incarnate-word"
   },
   {
     "id": 124,
-    "name": "Indiana"
+    "name": "Indiana",
+    "url": "/cbb/schools/indiana/men/2023.html",
+    "textId": "indiana"
   },
   {
     "id": 125,
-    "name": "Indiana State"
+    "name": "Indiana State",
+    "url": "/cbb/schools/indiana-state/men/2023.html",
+    "textId": "indiana-state"
   },
   {
     "id": 126,
-    "name": "Iona"
+    "name": "Iona",
+    "url": "/cbb/schools/iona/men/2023.html",
+    "textId": "iona"
   },
   {
     "id": 127,
-    "name": "Iowa"
+    "name": "Iowa",
+    "url": "/cbb/schools/iowa/men/2023.html",
+    "textId": "iowa"
   },
   {
     "id": 128,
-    "name": "Iowa State"
+    "name": "Iowa State",
+    "url": "/cbb/schools/iowa-state/men/2023.html",
+    "textId": "iowa-state"
   },
   {
     "id": 129,
-    "name": "IUPUI"
+    "name": "IUPUI",
+    "url": "/cbb/schools/iupui/men/2023.html",
+    "textId": "iupui"
   },
   {
     "id": 130,
-    "name": "Jackson State"
+    "name": "Jackson State",
+    "url": "/cbb/schools/jackson-state/men/2023.html",
+    "textId": "jackson-state"
   },
   {
     "id": 131,
-    "name": "Jacksonville"
+    "name": "Jacksonville",
+    "url": "/cbb/schools/jacksonville/men/2023.html",
+    "textId": "jacksonville"
   },
   {
     "id": 132,
-    "name": "Jacksonville State"
+    "name": "Jacksonville State",
+    "url": "/cbb/schools/jacksonville-state/men/2023.html",
+    "textId": "jacksonville-state"
   },
   {
     "id": 133,
-    "name": "James Madison"
+    "name": "James Madison",
+    "url": "/cbb/schools/james-madison/men/2023.html",
+    "textId": "james-madison"
   },
   {
     "id": 134,
-    "name": "Kansas"
+    "name": "Kansas",
+    "url": "/cbb/schools/kansas/men/2023.html",
+    "textId": "kansas"
   },
   {
     "id": 135,
-    "name": "Kansas City"
+    "name": "Kansas City",
+    "url": "/cbb/schools/missouri-kansas-city/men/2023.html",
+    "textId": "missouri-kansas-city"
   },
   {
     "id": 136,
-    "name": "Kansas State"
+    "name": "Kansas State",
+    "url": "/cbb/schools/kansas-state/men/2023.html",
+    "textId": "kansas-state"
   },
   {
     "id": 137,
-    "name": "Kennesaw State"
+    "name": "Kennesaw State",
+    "url": "/cbb/schools/kennesaw-state/men/2023.html",
+    "textId": "kennesaw-state"
   },
   {
     "id": 138,
-    "name": "Kent State"
+    "name": "Kent State",
+    "url": "/cbb/schools/kent-state/men/2023.html",
+    "textId": "kent-state"
   },
   {
     "id": 139,
-    "name": "Kentucky"
+    "name": "Kentucky",
+    "url": "/cbb/schools/kentucky/men/2023.html",
+    "textId": "kentucky"
   },
   {
     "id": 140,
-    "name": "La Salle"
+    "name": "La Salle",
+    "url": "/cbb/schools/la-salle/men/2023.html",
+    "textId": "la-salle"
   },
   {
     "id": 141,
-    "name": "Lafayette"
+    "name": "Lafayette",
+    "url": "/cbb/schools/lafayette/men/2023.html",
+    "textId": "lafayette"
   },
   {
     "id": 142,
-    "name": "Lamar"
+    "name": "Lamar",
+    "url": "/cbb/schools/lamar/men/2023.html",
+    "textId": "lamar"
   },
   {
     "id": 143,
-    "name": "Lehigh"
+    "name": "Lehigh",
+    "url": "/cbb/schools/lehigh/men/2023.html",
+    "textId": "lehigh"
   },
   {
     "id": 144,
-    "name": "Liberty"
+    "name": "Liberty",
+    "url": "/cbb/schools/liberty/men/2023.html",
+    "textId": "liberty"
   },
   {
     "id": 145,
-    "name": "Lindenwood"
+    "name": "Lindenwood",
+    "url": "/cbb/schools/lindenwood/men/2023.html",
+    "textId": "lindenwood"
   },
   {
     "id": 146,
-    "name": "Lipscomb"
+    "name": "Lipscomb",
+    "url": "/cbb/schools/lipscomb/men/2023.html",
+    "textId": "lipscomb"
   },
   {
     "id": 147,
-    "name": "Little Rock"
+    "name": "Little Rock",
+    "url": "/cbb/schools/arkansas-little-rock/men/2023.html",
+    "textId": "arkansas-little-rock"
   },
   {
     "id": 148,
-    "name": "Long Beach State"
+    "name": "Long Beach State",
+    "url": "/cbb/schools/long-beach-state/men/2023.html",
+    "textId": "long-beach-state"
   },
   {
     "id": 149,
-    "name": "Long Island University"
+    "name": "Long Island University",
+    "url": "/cbb/schools/long-island-university/men/2023.html",
+    "textId": "long-island-university"
   },
   {
     "id": 150,
-    "name": "Longwood"
+    "name": "Longwood",
+    "url": "/cbb/schools/longwood/men/2023.html",
+    "textId": "longwood"
   },
   {
     "id": 151,
-    "name": "Louisiana"
+    "name": "Louisiana",
+    "url": "/cbb/schools/louisiana-lafayette/men/2023.html",
+    "textId": "louisiana-lafayette"
   },
   {
     "id": 152,
-    "name": "Louisiana State"
+    "name": "Louisiana State",
+    "url": "/cbb/schools/louisiana-state/men/2023.html",
+    "textId": "louisiana-state"
   },
   {
     "id": 153,
-    "name": "Louisiana Tech"
+    "name": "Louisiana Tech",
+    "url": "/cbb/schools/louisiana-tech/men/2023.html",
+    "textId": "louisiana-tech"
   },
   {
     "id": 154,
-    "name": "Louisiana-Monroe"
+    "name": "Louisiana-Monroe",
+    "url": "/cbb/schools/louisiana-monroe/men/2023.html",
+    "textId": "louisiana-monroe"
   },
   {
     "id": 155,
-    "name": "Louisville"
+    "name": "Louisville",
+    "url": "/cbb/schools/louisville/men/2023.html",
+    "textId": "louisville"
   },
   {
     "id": 156,
-    "name": "Loyola (IL)"
+    "name": "Loyola (IL)",
+    "url": "/cbb/schools/loyola-il/men/2023.html",
+    "textId": "loyola-il"
   },
   {
     "id": 157,
-    "name": "Loyola (MD)"
+    "name": "Loyola (MD)",
+    "url": "/cbb/schools/loyola-md/men/2023.html",
+    "textId": "loyola-md"
   },
   {
     "id": 158,
-    "name": "Loyola Marymount"
+    "name": "Loyola Marymount",
+    "url": "/cbb/schools/loyola-marymount/men/2023.html",
+    "textId": "loyola-marymount"
   },
   {
     "id": 159,
-    "name": "Maine"
+    "name": "Maine",
+    "url": "/cbb/schools/maine/men/2023.html",
+    "textId": "maine"
   },
   {
     "id": 160,
-    "name": "Manhattan"
+    "name": "Manhattan",
+    "url": "/cbb/schools/manhattan/men/2023.html",
+    "textId": "manhattan"
   },
   {
     "id": 161,
-    "name": "Marist"
+    "name": "Marist",
+    "url": "/cbb/schools/marist/men/2023.html",
+    "textId": "marist"
   },
   {
     "id": 162,
-    "name": "Marquette"
+    "name": "Marquette",
+    "url": "/cbb/schools/marquette/men/2023.html",
+    "textId": "marquette"
   },
   {
     "id": 163,
-    "name": "Marshall"
+    "name": "Marshall",
+    "url": "/cbb/schools/marshall/men/2023.html",
+    "textId": "marshall"
   },
   {
     "id": 164,
-    "name": "Maryland"
+    "name": "Maryland",
+    "url": "/cbb/schools/maryland/men/2023.html",
+    "textId": "maryland"
   },
   {
     "id": 165,
-    "name": "Maryland-Baltimore County"
+    "name": "Maryland-Baltimore County",
+    "url": "/cbb/schools/maryland-baltimore-county/men/2023.html",
+    "textId": "maryland-baltimore-county"
   },
   {
     "id": 166,
-    "name": "Maryland-Eastern Shore"
+    "name": "Maryland-Eastern Shore",
+    "url": "/cbb/schools/maryland-eastern-shore/men/2023.html",
+    "textId": "maryland-eastern-shore"
   },
   {
     "id": 167,
-    "name": "Massachusetts"
+    "name": "Massachusetts",
+    "url": "/cbb/schools/massachusetts/men/2023.html",
+    "textId": "massachusetts"
   },
   {
     "id": 168,
-    "name": "Massachusetts-Lowell"
+    "name": "Massachusetts-Lowell",
+    "url": "/cbb/schools/massachusetts-lowell/men/2023.html",
+    "textId": "massachusetts-lowell"
   },
   {
     "id": 169,
-    "name": "McNeese State"
+    "name": "McNeese State",
+    "url": "/cbb/schools/mcneese-state/men/2023.html",
+    "textId": "mcneese-state"
   },
   {
     "id": 170,
-    "name": "Memphis"
+    "name": "Memphis",
+    "url": "/cbb/schools/memphis/men/2023.html",
+    "textId": "memphis"
   },
   {
     "id": 171,
-    "name": "Mercer"
+    "name": "Mercer",
+    "url": "/cbb/schools/mercer/men/2023.html",
+    "textId": "mercer"
   },
   {
     "id": 172,
-    "name": "Merrimack"
+    "name": "Merrimack",
+    "url": "/cbb/schools/merrimack/men/2023.html",
+    "textId": "merrimack"
   },
   {
     "id": 173,
-    "name": "Miami (FL)"
+    "name": "Miami (FL)",
+    "url": "/cbb/schools/miami-fl/men/2023.html",
+    "textId": "miami-fl"
   },
   {
     "id": 174,
-    "name": "Miami (OH)"
+    "name": "Miami (OH)",
+    "url": "/cbb/schools/miami-oh/men/2023.html",
+    "textId": "miami-oh"
   },
   {
     "id": 175,
-    "name": "Michigan"
+    "name": "Michigan",
+    "url": "/cbb/schools/michigan/men/2023.html",
+    "textId": "michigan"
   },
   {
     "id": 176,
-    "name": "Michigan State"
+    "name": "Michigan State",
+    "url": "/cbb/schools/michigan-state/men/2023.html",
+    "textId": "michigan-state"
   },
   {
     "id": 177,
-    "name": "Middle Tennessee"
+    "name": "Middle Tennessee",
+    "url": "/cbb/schools/middle-tennessee/men/2023.html",
+    "textId": "middle-tennessee"
   },
   {
     "id": 178,
-    "name": "Milwaukee"
+    "name": "Milwaukee",
+    "url": "/cbb/schools/milwaukee/men/2023.html",
+    "textId": "milwaukee"
   },
   {
     "id": 179,
-    "name": "Minnesota"
+    "name": "Minnesota",
+    "url": "/cbb/schools/minnesota/men/2023.html",
+    "textId": "minnesota"
   },
   {
     "id": 180,
-    "name": "Mississippi"
+    "name": "Mississippi",
+    "url": "/cbb/schools/mississippi/men/2023.html",
+    "textId": "mississippi"
   },
   {
     "id": 181,
-    "name": "Mississippi State"
+    "name": "Mississippi State",
+    "url": "/cbb/schools/mississippi-state/men/2023.html",
+    "textId": "mississippi-state"
   },
   {
     "id": 182,
-    "name": "Mississippi Valley State"
+    "name": "Mississippi Valley State",
+    "url": "/cbb/schools/mississippi-valley-state/men/2023.html",
+    "textId": "mississippi-valley-state"
   },
   {
     "id": 183,
-    "name": "Missouri"
+    "name": "Missouri",
+    "url": "/cbb/schools/missouri/men/2023.html",
+    "textId": "missouri"
   },
   {
     "id": 184,
-    "name": "Missouri State"
+    "name": "Missouri State",
+    "url": "/cbb/schools/missouri-state/men/2023.html",
+    "textId": "missouri-state"
   },
   {
     "id": 185,
-    "name": "Monmouth"
+    "name": "Monmouth",
+    "url": "/cbb/schools/monmouth/men/2023.html",
+    "textId": "monmouth"
   },
   {
     "id": 186,
-    "name": "Montana"
+    "name": "Montana",
+    "url": "/cbb/schools/montana/men/2023.html",
+    "textId": "montana"
   },
   {
     "id": 187,
-    "name": "Montana State"
+    "name": "Montana State",
+    "url": "/cbb/schools/montana-state/men/2023.html",
+    "textId": "montana-state"
   },
   {
     "id": 188,
-    "name": "Morehead State"
+    "name": "Morehead State",
+    "url": "/cbb/schools/morehead-state/men/2023.html",
+    "textId": "morehead-state"
   },
   {
     "id": 189,
-    "name": "Morgan State"
+    "name": "Morgan State",
+    "url": "/cbb/schools/morgan-state/men/2023.html",
+    "textId": "morgan-state"
   },
   {
     "id": 190,
-    "name": "Mount St. Mary's"
+    "name": "Mount St. Mary's",
+    "url": "/cbb/schools/mount-st-marys/men/2023.html",
+    "textId": "mount-st-marys"
   },
   {
     "id": 191,
-    "name": "Murray State"
+    "name": "Murray State",
+    "url": "/cbb/schools/murray-state/men/2023.html",
+    "textId": "murray-state"
   },
   {
     "id": 192,
-    "name": "Navy"
+    "name": "Navy",
+    "url": "/cbb/schools/navy/men/2023.html",
+    "textId": "navy"
   },
   {
     "id": 193,
-    "name": "NC State"
+    "name": "NC State",
+    "url": "/cbb/schools/north-carolina-state/men/2023.html",
+    "textId": "north-carolina-state"
   },
   {
     "id": 194,
-    "name": "Nebraska"
+    "name": "Nebraska",
+    "url": "/cbb/schools/nebraska/men/2023.html",
+    "textId": "nebraska"
   },
   {
     "id": 195,
-    "name": "Nevada"
+    "name": "Nevada",
+    "url": "/cbb/schools/nevada/men/2023.html",
+    "textId": "nevada"
   },
   {
     "id": 196,
-    "name": "Nevada-Las Vegas"
+    "name": "Nevada-Las Vegas",
+    "url": "/cbb/schools/nevada-las-vegas/men/2023.html",
+    "textId": "nevada-las-vegas"
   },
   {
     "id": 197,
-    "name": "New Hampshire"
+    "name": "New Hampshire",
+    "url": "/cbb/schools/new-hampshire/men/2023.html",
+    "textId": "new-hampshire"
   },
   {
     "id": 198,
-    "name": "New Mexico"
+    "name": "New Mexico",
+    "url": "/cbb/schools/new-mexico/men/2023.html",
+    "textId": "new-mexico"
   },
   {
     "id": 199,
-    "name": "New Mexico State"
+    "name": "New Mexico State",
+    "url": "/cbb/schools/new-mexico-state/men/2023.html",
+    "textId": "new-mexico-state"
   },
   {
     "id": 200,
-    "name": "New Orleans"
+    "name": "New Orleans",
+    "url": "/cbb/schools/new-orleans/men/2023.html",
+    "textId": "new-orleans"
   },
   {
     "id": 201,
-    "name": "Niagara"
+    "name": "Niagara",
+    "url": "/cbb/schools/niagara/men/2023.html",
+    "textId": "niagara"
   },
   {
     "id": 202,
-    "name": "Nicholls State"
+    "name": "Nicholls State",
+    "url": "/cbb/schools/nicholls-state/men/2023.html",
+    "textId": "nicholls-state"
   },
   {
     "id": 203,
-    "name": "NJIT"
+    "name": "NJIT",
+    "url": "/cbb/schools/njit/men/2023.html",
+    "textId": "njit"
   },
   {
     "id": 204,
-    "name": "Norfolk State"
+    "name": "Norfolk State",
+    "url": "/cbb/schools/norfolk-state/men/2023.html",
+    "textId": "norfolk-state"
   },
   {
     "id": 205,
-    "name": "North Alabama"
+    "name": "North Alabama",
+    "url": "/cbb/schools/north-alabama/men/2023.html",
+    "textId": "north-alabama"
   },
   {
     "id": 206,
-    "name": "North Carolina"
+    "name": "North Carolina",
+    "url": "/cbb/schools/north-carolina/men/2023.html",
+    "textId": "north-carolina"
   },
   {
     "id": 207,
-    "name": "North Carolina A&T"
+    "name": "North Carolina A&T",
+    "url": "/cbb/schools/north-carolina-at/men/2023.html",
+    "textId": "north-carolina-at"
   },
   {
     "id": 208,
-    "name": "North Carolina Central"
+    "name": "North Carolina Central",
+    "url": "/cbb/schools/north-carolina-central/men/2023.html",
+    "textId": "north-carolina-central"
   },
   {
     "id": 209,
-    "name": "North Dakota"
+    "name": "North Dakota",
+    "url": "/cbb/schools/north-dakota/men/2023.html",
+    "textId": "north-dakota"
   },
   {
     "id": 210,
-    "name": "North Dakota State"
+    "name": "North Dakota State",
+    "url": "/cbb/schools/north-dakota-state/men/2023.html",
+    "textId": "north-dakota-state"
   },
   {
     "id": 211,
-    "name": "North Florida"
+    "name": "North Florida",
+    "url": "/cbb/schools/north-florida/men/2023.html",
+    "textId": "north-florida"
   },
   {
     "id": 212,
-    "name": "North Texas"
+    "name": "North Texas",
+    "url": "/cbb/schools/north-texas/men/2023.html",
+    "textId": "north-texas"
   },
   {
     "id": 213,
-    "name": "Northeastern"
+    "name": "Northeastern",
+    "url": "/cbb/schools/northeastern/men/2023.html",
+    "textId": "northeastern"
   },
   {
     "id": 214,
-    "name": "Northern Arizona"
+    "name": "Northern Arizona",
+    "url": "/cbb/schools/northern-arizona/men/2023.html",
+    "textId": "northern-arizona"
   },
   {
     "id": 215,
-    "name": "Northern Colorado"
+    "name": "Northern Colorado",
+    "url": "/cbb/schools/northern-colorado/men/2023.html",
+    "textId": "northern-colorado"
   },
   {
     "id": 216,
-    "name": "Northern Illinois"
+    "name": "Northern Illinois",
+    "url": "/cbb/schools/northern-illinois/men/2023.html",
+    "textId": "northern-illinois"
   },
   {
     "id": 217,
-    "name": "Northern Iowa"
+    "name": "Northern Iowa",
+    "url": "/cbb/schools/northern-iowa/men/2023.html",
+    "textId": "northern-iowa"
   },
   {
     "id": 218,
-    "name": "Northern Kentucky"
+    "name": "Northern Kentucky",
+    "url": "/cbb/schools/northern-kentucky/men/2023.html",
+    "textId": "northern-kentucky"
   },
   {
     "id": 219,
-    "name": "Northwestern"
+    "name": "Northwestern",
+    "url": "/cbb/schools/northwestern/men/2023.html",
+    "textId": "northwestern"
   },
   {
     "id": 220,
-    "name": "Northwestern State"
+    "name": "Northwestern State",
+    "url": "/cbb/schools/northwestern-state/men/2023.html",
+    "textId": "northwestern-state"
   },
   {
     "id": 221,
-    "name": "Notre Dame"
+    "name": "Notre Dame",
+    "url": "/cbb/schools/notre-dame/men/2023.html",
+    "textId": "notre-dame"
   },
   {
     "id": 222,
-    "name": "Oakland"
+    "name": "Oakland",
+    "url": "/cbb/schools/oakland/men/2023.html",
+    "textId": "oakland"
   },
   {
     "id": 223,
-    "name": "Ohio"
+    "name": "Ohio",
+    "url": "/cbb/schools/ohio/men/2023.html",
+    "textId": "ohio"
   },
   {
     "id": 224,
-    "name": "Ohio State"
+    "name": "Ohio State",
+    "url": "/cbb/schools/ohio-state/men/2023.html",
+    "textId": "ohio-state"
   },
   {
     "id": 225,
-    "name": "Oklahoma"
+    "name": "Oklahoma",
+    "url": "/cbb/schools/oklahoma/men/2023.html",
+    "textId": "oklahoma"
   },
   {
     "id": 226,
-    "name": "Oklahoma State"
+    "name": "Oklahoma State",
+    "url": "/cbb/schools/oklahoma-state/men/2023.html",
+    "textId": "oklahoma-state"
   },
   {
     "id": 227,
-    "name": "Old Dominion"
+    "name": "Old Dominion",
+    "url": "/cbb/schools/old-dominion/men/2023.html",
+    "textId": "old-dominion"
   },
   {
     "id": 228,
-    "name": "Omaha"
+    "name": "Omaha",
+    "url": "/cbb/schools/nebraska-omaha/men/2023.html",
+    "textId": "nebraska-omaha"
   },
   {
     "id": 229,
-    "name": "Oral Roberts"
+    "name": "Oral Roberts",
+    "url": "/cbb/schools/oral-roberts/men/2023.html",
+    "textId": "oral-roberts"
   },
   {
     "id": 230,
-    "name": "Oregon"
+    "name": "Oregon",
+    "url": "/cbb/schools/oregon/men/2023.html",
+    "textId": "oregon"
   },
   {
     "id": 231,
-    "name": "Oregon State"
+    "name": "Oregon State",
+    "url": "/cbb/schools/oregon-state/men/2023.html",
+    "textId": "oregon-state"
   },
   {
     "id": 232,
-    "name": "Pacific"
+    "name": "Pacific",
+    "url": "/cbb/schools/pacific/men/2023.html",
+    "textId": "pacific"
   },
   {
     "id": 233,
-    "name": "Penn State"
+    "name": "Penn State",
+    "url": "/cbb/schools/penn-state/men/2023.html",
+    "textId": "penn-state"
   },
   {
     "id": 234,
-    "name": "Pennsylvania"
+    "name": "Pennsylvania",
+    "url": "/cbb/schools/pennsylvania/men/2023.html",
+    "textId": "pennsylvania"
   },
   {
     "id": 235,
-    "name": "Pepperdine"
+    "name": "Pepperdine",
+    "url": "/cbb/schools/pepperdine/men/2023.html",
+    "textId": "pepperdine"
   },
   {
     "id": 236,
-    "name": "Pittsburgh"
+    "name": "Pittsburgh",
+    "url": "/cbb/schools/pittsburgh/men/2023.html",
+    "textId": "pittsburgh"
   },
   {
     "id": 237,
-    "name": "Portland"
+    "name": "Portland",
+    "url": "/cbb/schools/portland/men/2023.html",
+    "textId": "portland"
   },
   {
     "id": 238,
-    "name": "Portland State"
+    "name": "Portland State",
+    "url": "/cbb/schools/portland-state/men/2023.html",
+    "textId": "portland-state"
   },
   {
     "id": 239,
-    "name": "Prairie View"
+    "name": "Prairie View",
+    "url": "/cbb/schools/prairie-view/men/2023.html",
+    "textId": "prairie-view"
   },
   {
     "id": 240,
-    "name": "Presbyterian"
+    "name": "Presbyterian",
+    "url": "/cbb/schools/presbyterian/men/2023.html",
+    "textId": "presbyterian"
   },
   {
     "id": 241,
-    "name": "Princeton"
+    "name": "Princeton",
+    "url": "/cbb/schools/princeton/men/2023.html",
+    "textId": "princeton"
   },
   {
     "id": 242,
-    "name": "Providence"
+    "name": "Providence",
+    "url": "/cbb/schools/providence/men/2023.html",
+    "textId": "providence"
   },
   {
     "id": 243,
-    "name": "Purdue"
+    "name": "Purdue",
+    "url": "/cbb/schools/purdue/men/2023.html",
+    "textId": "purdue"
   },
   {
     "id": 244,
-    "name": "Purdue-Fort Wayne"
+    "name": "Purdue-Fort Wayne",
+    "url": "/cbb/schools/ipfw/men/2023.html",
+    "textId": "ipfw"
   },
   {
     "id": 245,
-    "name": "Queens (NC)"
+    "name": "Queens (NC)",
+    "url": "/cbb/schools/queens-nc/men/2023.html",
+    "textId": "queens-nc"
   },
   {
     "id": 246,
-    "name": "Quinnipiac"
+    "name": "Quinnipiac",
+    "url": "/cbb/schools/quinnipiac/men/2023.html",
+    "textId": "quinnipiac"
   },
   {
     "id": 247,
-    "name": "Radford"
+    "name": "Radford",
+    "url": "/cbb/schools/radford/men/2023.html",
+    "textId": "radford"
   },
   {
     "id": 248,
-    "name": "Rhode Island"
+    "name": "Rhode Island",
+    "url": "/cbb/schools/rhode-island/men/2023.html",
+    "textId": "rhode-island"
   },
   {
     "id": 249,
-    "name": "Rice"
+    "name": "Rice",
+    "url": "/cbb/schools/rice/men/2023.html",
+    "textId": "rice"
   },
   {
     "id": 250,
-    "name": "Richmond"
+    "name": "Richmond",
+    "url": "/cbb/schools/richmond/men/2023.html",
+    "textId": "richmond"
   },
   {
     "id": 251,
-    "name": "Rider"
+    "name": "Rider",
+    "url": "/cbb/schools/rider/men/2023.html",
+    "textId": "rider"
   },
   {
     "id": 252,
-    "name": "Robert Morris"
+    "name": "Robert Morris",
+    "url": "/cbb/schools/robert-morris/men/2023.html",
+    "textId": "robert-morris"
   },
   {
     "id": 253,
-    "name": "Rutgers"
+    "name": "Rutgers",
+    "url": "/cbb/schools/rutgers/men/2023.html",
+    "textId": "rutgers"
   },
   {
     "id": 254,
-    "name": "Sacramento State"
+    "name": "Sacramento State",
+    "url": "/cbb/schools/sacramento-state/men/2023.html",
+    "textId": "sacramento-state"
   },
   {
     "id": 255,
-    "name": "Sacred Heart"
+    "name": "Sacred Heart",
+    "url": "/cbb/schools/sacred-heart/men/2023.html",
+    "textId": "sacred-heart"
   },
   {
     "id": 256,
-    "name": "Saint Francis (PA)"
+    "name": "Saint Francis (PA)",
+    "url": "/cbb/schools/saint-francis-pa/men/2023.html",
+    "textId": "saint-francis-pa"
   },
   {
     "id": 257,
-    "name": "Saint Joseph's"
+    "name": "Saint Joseph's",
+    "url": "/cbb/schools/saint-josephs/men/2023.html",
+    "textId": "saint-josephs"
   },
   {
     "id": 258,
-    "name": "Saint Louis"
+    "name": "Saint Louis",
+    "url": "/cbb/schools/saint-louis/men/2023.html",
+    "textId": "saint-louis"
   },
   {
     "id": 259,
-    "name": "Saint Mary's (CA)"
+    "name": "Saint Mary's (CA)",
+    "url": "/cbb/schools/saint-marys-ca/men/2023.html",
+    "textId": "saint-marys-ca"
   },
   {
     "id": 260,
-    "name": "Saint Peter's"
+    "name": "Saint Peter's",
+    "url": "/cbb/schools/saint-peters/men/2023.html",
+    "textId": "saint-peters"
   },
   {
     "id": 261,
-    "name": "Sam Houston State"
+    "name": "Sam Houston State",
+    "url": "/cbb/schools/sam-houston-state/men/2023.html",
+    "textId": "sam-houston-state"
   },
   {
     "id": 262,
-    "name": "Samford"
+    "name": "Samford",
+    "url": "/cbb/schools/samford/men/2023.html",
+    "textId": "samford"
   },
   {
     "id": 263,
-    "name": "San Diego"
+    "name": "San Diego",
+    "url": "/cbb/schools/san-diego/men/2023.html",
+    "textId": "san-diego"
   },
   {
     "id": 264,
-    "name": "San Diego State"
+    "name": "San Diego State",
+    "url": "/cbb/schools/san-diego-state/men/2023.html",
+    "textId": "san-diego-state"
   },
   {
     "id": 265,
-    "name": "San Francisco"
+    "name": "San Francisco",
+    "url": "/cbb/schools/san-francisco/men/2023.html",
+    "textId": "san-francisco"
   },
   {
     "id": 266,
-    "name": "San Jose State"
+    "name": "San Jose State",
+    "url": "/cbb/schools/san-jose-state/men/2023.html",
+    "textId": "san-jose-state"
   },
   {
     "id": 267,
-    "name": "Santa Clara"
+    "name": "Santa Clara",
+    "url": "/cbb/schools/santa-clara/men/2023.html",
+    "textId": "santa-clara"
   },
   {
     "id": 268,
-    "name": "Seattle"
+    "name": "Seattle",
+    "url": "/cbb/schools/seattle/men/2023.html",
+    "textId": "seattle"
   },
   {
     "id": 269,
-    "name": "Seton Hall"
+    "name": "Seton Hall",
+    "url": "/cbb/schools/seton-hall/men/2023.html",
+    "textId": "seton-hall"
   },
   {
     "id": 270,
-    "name": "Siena"
+    "name": "Siena",
+    "url": "/cbb/schools/siena/men/2023.html",
+    "textId": "siena"
   },
   {
     "id": 271,
-    "name": "South Alabama"
+    "name": "South Alabama",
+    "url": "/cbb/schools/south-alabama/men/2023.html",
+    "textId": "south-alabama"
   },
   {
     "id": 272,
-    "name": "South Carolina"
+    "name": "South Carolina",
+    "url": "/cbb/schools/south-carolina/men/2023.html",
+    "textId": "south-carolina"
   },
   {
     "id": 273,
-    "name": "South Carolina State"
+    "name": "South Carolina State",
+    "url": "/cbb/schools/south-carolina-state/men/2023.html",
+    "textId": "south-carolina-state"
   },
   {
     "id": 274,
-    "name": "South Carolina Upstate"
+    "name": "South Carolina Upstate",
+    "url": "/cbb/schools/south-carolina-upstate/men/2023.html",
+    "textId": "south-carolina-upstate"
   },
   {
     "id": 275,
-    "name": "South Dakota"
+    "name": "South Dakota",
+    "url": "/cbb/schools/south-dakota/men/2023.html",
+    "textId": "south-dakota"
   },
   {
     "id": 276,
-    "name": "South Dakota State"
+    "name": "South Dakota State",
+    "url": "/cbb/schools/south-dakota-state/men/2023.html",
+    "textId": "south-dakota-state"
   },
   {
     "id": 277,
-    "name": "South Florida"
+    "name": "South Florida",
+    "url": "/cbb/schools/south-florida/men/2023.html",
+    "textId": "south-florida"
   },
   {
     "id": 278,
-    "name": "Southeast Missouri State"
+    "name": "Southeast Missouri State",
+    "url": "/cbb/schools/southeast-missouri-state/men/2023.html",
+    "textId": "southeast-missouri-state"
   },
   {
     "id": 279,
-    "name": "Southeastern Louisiana"
+    "name": "Southeastern Louisiana",
+    "url": "/cbb/schools/southeastern-louisiana/men/2023.html",
+    "textId": "southeastern-louisiana"
   },
   {
     "id": 280,
-    "name": "Southern"
+    "name": "Southern",
+    "url": "/cbb/schools/southern/men/2023.html",
+    "textId": "southern"
   },
   {
     "id": 281,
-    "name": "Southern California"
+    "name": "Southern California",
+    "url": "/cbb/schools/southern-california/men/2023.html",
+    "textId": "southern-california"
   },
   {
     "id": 282,
-    "name": "Southern Illinois"
+    "name": "Southern Illinois",
+    "url": "/cbb/schools/southern-illinois/men/2023.html",
+    "textId": "southern-illinois"
   },
   {
     "id": 283,
-    "name": "SIU Edwardsville"
+    "name": "SIU Edwardsville",
+    "url": "/cbb/schools/southern-illinois-edwardsville/men/2023.html",
+    "textId": "southern-illinois-edwardsville"
   },
   {
     "id": 284,
-    "name": "Southern Indiana"
+    "name": "Southern Indiana",
+    "url": "/cbb/schools/southern-indiana/men/2023.html",
+    "textId": "southern-indiana"
   },
   {
     "id": 285,
-    "name": "Southern Methodist"
+    "name": "Southern Methodist",
+    "url": "/cbb/schools/southern-methodist/men/2023.html",
+    "textId": "southern-methodist"
   },
   {
     "id": 286,
-    "name": "Southern Mississippi"
+    "name": "Southern Mississippi",
+    "url": "/cbb/schools/southern-mississippi/men/2023.html",
+    "textId": "southern-mississippi"
   },
   {
     "id": 287,
-    "name": "Southern Utah"
+    "name": "Southern Utah",
+    "url": "/cbb/schools/southern-utah/men/2023.html",
+    "textId": "southern-utah"
   },
   {
     "id": 288,
-    "name": "St. Bonaventure"
+    "name": "St. Bonaventure",
+    "url": "/cbb/schools/st-bonaventure/men/2023.html",
+    "textId": "st-bonaventure"
   },
   {
     "id": 289,
-    "name": "St. Francis (NY)"
+    "name": "St. Francis (NY)",
+    "url": "/cbb/schools/st-francis-ny/men/2023.html",
+    "textId": "st-francis-ny"
   },
   {
     "id": 290,
-    "name": "St. John's (NY)"
+    "name": "St. John's (NY)",
+    "url": "/cbb/schools/st-johns-ny/men/2023.html",
+    "textId": "st-johns-ny"
   },
   {
     "id": 291,
-    "name": "St. Thomas"
+    "name": "St. Thomas",
+    "url": "/cbb/schools/st-thomas-mn/men/2023.html",
+    "textId": "st-thomas-mn"
   },
   {
     "id": 292,
-    "name": "Stanford"
+    "name": "Stanford",
+    "url": "/cbb/schools/stanford/men/2023.html",
+    "textId": "stanford"
   },
   {
     "id": 293,
-    "name": "Stephen F. Austin"
+    "name": "Stephen F. Austin",
+    "url": "/cbb/schools/stephen-f-austin/men/2023.html",
+    "textId": "stephen-f-austin"
   },
   {
     "id": 294,
-    "name": "Stetson"
+    "name": "Stetson",
+    "url": "/cbb/schools/stetson/men/2023.html",
+    "textId": "stetson"
   },
   {
     "id": 295,
-    "name": "Stonehill"
+    "name": "Stonehill",
+    "url": "/cbb/schools/stonehill/men/2023.html",
+    "textId": "stonehill"
   },
   {
     "id": 296,
-    "name": "Stony Brook"
+    "name": "Stony Brook",
+    "url": "/cbb/schools/stony-brook/men/2023.html",
+    "textId": "stony-brook"
   },
   {
     "id": 297,
-    "name": "Syracuse"
+    "name": "Syracuse",
+    "url": "/cbb/schools/syracuse/men/2023.html",
+    "textId": "syracuse"
   },
   {
     "id": 298,
-    "name": "Tarleton State"
+    "name": "Tarleton State",
+    "url": "/cbb/schools/tarleton-state/men/2023.html",
+    "textId": "tarleton-state"
   },
   {
     "id": 299,
-    "name": "TCU"
+    "name": "TCU",
+    "url": "/cbb/schools/texas-christian/men/2023.html",
+    "textId": "texas-christian"
   },
   {
     "id": 300,
-    "name": "Temple"
+    "name": "Temple",
+    "url": "/cbb/schools/temple/men/2023.html",
+    "textId": "temple"
   },
   {
     "id": 301,
-    "name": "Tennessee"
+    "name": "Tennessee",
+    "url": "/cbb/schools/tennessee/men/2023.html",
+    "textId": "tennessee"
   },
   {
     "id": 302,
-    "name": "Tennessee State"
+    "name": "Tennessee State",
+    "url": "/cbb/schools/tennessee-state/men/2023.html",
+    "textId": "tennessee-state"
   },
   {
     "id": 303,
-    "name": "Tennessee Tech"
+    "name": "Tennessee Tech",
+    "url": "/cbb/schools/tennessee-tech/men/2023.html",
+    "textId": "tennessee-tech"
   },
   {
     "id": 304,
-    "name": "Tennessee-Martin"
+    "name": "Tennessee-Martin",
+    "url": "/cbb/schools/tennessee-martin/men/2023.html",
+    "textId": "tennessee-martin"
   },
   {
     "id": 305,
-    "name": "Texas"
+    "name": "Texas",
+    "url": "/cbb/schools/texas/men/2023.html",
+    "textId": "texas"
   },
   {
     "id": 306,
-    "name": "Texas A&M"
+    "name": "Texas A&M",
+    "url": "/cbb/schools/texas-am/men/2023.html",
+    "textId": "texas-am"
   },
   {
     "id": 307,
-    "name": "Texas A&M-Commerce"
+    "name": "Texas A&M-Commerce",
+    "url": "/cbb/schools/texas-am-commerce/men/2023.html",
+    "textId": "texas-am-commerce"
   },
   {
     "id": 308,
-    "name": "Texas A&M-Corpus Christi"
+    "name": "Texas A&M-Corpus Christi",
+    "url": "/cbb/schools/texas-am-corpus-christi/men/2023.html",
+    "textId": "texas-am-corpus-christi"
   },
   {
     "id": 309,
-    "name": "Texas Southern"
+    "name": "Texas Southern",
+    "url": "/cbb/schools/texas-southern/men/2023.html",
+    "textId": "texas-southern"
   },
   {
     "id": 310,
-    "name": "Texas State"
+    "name": "Texas State",
+    "url": "/cbb/schools/texas-state/men/2023.html",
+    "textId": "texas-state"
   },
   {
     "id": 311,
-    "name": "Texas Tech"
+    "name": "Texas Tech",
+    "url": "/cbb/schools/texas-tech/men/2023.html",
+    "textId": "texas-tech"
   },
   {
     "id": 312,
-    "name": "Texas-Rio Grande Valley"
+    "name": "Texas-Rio Grande Valley",
+    "url": "/cbb/schools/texas-pan-american/men/2023.html",
+    "textId": "texas-pan-american"
   },
   {
     "id": 313,
-    "name": "The Citadel"
+    "name": "The Citadel",
+    "url": "/cbb/schools/citadel/men/2023.html",
+    "textId": "citadel"
   },
   {
     "id": 314,
-    "name": "Toledo"
+    "name": "Toledo",
+    "url": "/cbb/schools/toledo/men/2023.html",
+    "textId": "toledo"
   },
   {
     "id": 315,
-    "name": "Towson"
+    "name": "Towson",
+    "url": "/cbb/schools/towson/men/2023.html",
+    "textId": "towson"
   },
   {
     "id": 316,
-    "name": "Troy"
+    "name": "Troy",
+    "url": "/cbb/schools/troy/men/2023.html",
+    "textId": "troy"
   },
   {
     "id": 317,
-    "name": "Tulane"
+    "name": "Tulane",
+    "url": "/cbb/schools/tulane/men/2023.html",
+    "textId": "tulane"
   },
   {
     "id": 318,
-    "name": "Tulsa"
+    "name": "Tulsa",
+    "url": "/cbb/schools/tulsa/men/2023.html",
+    "textId": "tulsa"
   },
   {
     "id": 319,
-    "name": "UAB"
+    "name": "UAB",
+    "url": "/cbb/schools/alabama-birmingham/men/2023.html",
+    "textId": "alabama-birmingham"
   },
   {
     "id": 320,
-    "name": "UC Davis"
+    "name": "UC Davis",
+    "url": "/cbb/schools/california-davis/men/2023.html",
+    "textId": "california-davis"
   },
   {
     "id": 321,
-    "name": "UC Irvine"
+    "name": "UC Irvine",
+    "url": "/cbb/schools/california-irvine/men/2023.html",
+    "textId": "california-irvine"
   },
   {
     "id": 322,
-    "name": "UC Riverside"
+    "name": "UC Riverside",
+    "url": "/cbb/schools/california-riverside/men/2023.html",
+    "textId": "california-riverside"
   },
   {
     "id": 323,
-    "name": "UC San Diego"
+    "name": "UC San Diego",
+    "url": "/cbb/schools/california-san-diego/men/2023.html",
+    "textId": "california-san-diego"
   },
   {
     "id": 324,
-    "name": "UC Santa Barbara"
+    "name": "UC Santa Barbara",
+    "url": "/cbb/schools/california-santa-barbara/men/2023.html",
+    "textId": "california-santa-barbara"
   },
   {
     "id": 325,
-    "name": "UCLA"
+    "name": "UCLA",
+    "url": "/cbb/schools/ucla/men/2023.html",
+    "textId": "ucla"
   },
   {
     "id": 326,
-    "name": "UNC Asheville"
+    "name": "UNC Asheville",
+    "url": "/cbb/schools/north-carolina-asheville/men/2023.html",
+    "textId": "north-carolina-asheville"
   },
   {
     "id": 327,
-    "name": "UNC Greensboro"
+    "name": "UNC Greensboro",
+    "url": "/cbb/schools/north-carolina-greensboro/men/2023.html",
+    "textId": "north-carolina-greensboro"
   },
   {
     "id": 328,
-    "name": "UNC Wilmington"
+    "name": "UNC Wilmington",
+    "url": "/cbb/schools/north-carolina-wilmington/men/2023.html",
+    "textId": "north-carolina-wilmington"
   },
   {
     "id": 329,
-    "name": "UT Arlington"
+    "name": "UT Arlington",
+    "url": "/cbb/schools/texas-arlington/men/2023.html",
+    "textId": "texas-arlington"
   },
   {
     "id": 330,
-    "name": "Utah"
+    "name": "Utah",
+    "url": "/cbb/schools/utah/men/2023.html",
+    "textId": "utah"
   },
   {
     "id": 331,
-    "name": "Utah State"
+    "name": "Utah State",
+    "url": "/cbb/schools/utah-state/men/2023.html",
+    "textId": "utah-state"
   },
   {
     "id": 332,
-    "name": "Utah Tech"
+    "name": "Utah Tech",
+    "url": "/cbb/schools/dixie-state/men/2023.html",
+    "textId": "dixie-state"
   },
   {
     "id": 333,
-    "name": "Utah Valley"
+    "name": "Utah Valley",
+    "url": "/cbb/schools/utah-valley/men/2023.html",
+    "textId": "utah-valley"
   },
   {
     "id": 334,
-    "name": "UTEP"
+    "name": "UTEP",
+    "url": "/cbb/schools/texas-el-paso/men/2023.html",
+    "textId": "texas-el-paso"
   },
   {
     "id": 335,
-    "name": "UTSA"
+    "name": "UTSA",
+    "url": "/cbb/schools/texas-san-antonio/men/2023.html",
+    "textId": "texas-san-antonio"
   },
   {
     "id": 336,
-    "name": "Valparaiso"
+    "name": "Valparaiso",
+    "url": "/cbb/schools/valparaiso/men/2023.html",
+    "textId": "valparaiso"
   },
   {
     "id": 337,
-    "name": "Vanderbilt"
+    "name": "Vanderbilt",
+    "url": "/cbb/schools/vanderbilt/men/2023.html",
+    "textId": "vanderbilt"
   },
   {
     "id": 338,
-    "name": "Vermont"
+    "name": "Vermont",
+    "url": "/cbb/schools/vermont/men/2023.html",
+    "textId": "vermont"
   },
   {
     "id": 339,
-    "name": "Villanova"
+    "name": "Villanova",
+    "url": "/cbb/schools/villanova/men/2023.html",
+    "textId": "villanova"
   },
   {
     "id": 340,
-    "name": "Virginia"
+    "name": "Virginia",
+    "url": "/cbb/schools/virginia/men/2023.html",
+    "textId": "virginia"
   },
   {
     "id": 341,
-    "name": "Virginia Commonwealth"
+    "name": "Virginia Commonwealth",
+    "url": "/cbb/schools/virginia-commonwealth/men/2023.html",
+    "textId": "virginia-commonwealth"
   },
   {
     "id": 342,
-    "name": "VMI"
+    "name": "VMI",
+    "url": "/cbb/schools/virginia-military-institute/men/2023.html",
+    "textId": "virginia-military-institute"
   },
   {
     "id": 343,
-    "name": "Virginia Tech"
+    "name": "Virginia Tech",
+    "url": "/cbb/schools/virginia-tech/men/2023.html",
+    "textId": "virginia-tech"
   },
   {
     "id": 344,
-    "name": "Wagner"
+    "name": "Wagner",
+    "url": "/cbb/schools/wagner/men/2023.html",
+    "textId": "wagner"
   },
   {
     "id": 345,
-    "name": "Wake Forest"
+    "name": "Wake Forest",
+    "url": "/cbb/schools/wake-forest/men/2023.html",
+    "textId": "wake-forest"
   },
   {
     "id": 346,
-    "name": "Washington"
+    "name": "Washington",
+    "url": "/cbb/schools/washington/men/2023.html",
+    "textId": "washington"
   },
   {
     "id": 347,
-    "name": "Washington State"
+    "name": "Washington State",
+    "url": "/cbb/schools/washington-state/men/2023.html",
+    "textId": "washington-state"
   },
   {
     "id": 348,
-    "name": "Weber State"
+    "name": "Weber State",
+    "url": "/cbb/schools/weber-state/men/2023.html",
+    "textId": "weber-state"
   },
   {
     "id": 349,
-    "name": "West Virginia"
+    "name": "West Virginia",
+    "url": "/cbb/schools/west-virginia/men/2023.html",
+    "textId": "west-virginia"
   },
   {
     "id": 350,
-    "name": "Western Carolina"
+    "name": "Western Carolina",
+    "url": "/cbb/schools/western-carolina/men/2023.html",
+    "textId": "western-carolina"
   },
   {
     "id": 351,
-    "name": "Western Illinois"
+    "name": "Western Illinois",
+    "url": "/cbb/schools/western-illinois/men/2023.html",
+    "textId": "western-illinois"
   },
   {
     "id": 352,
-    "name": "Western Kentucky"
+    "name": "Western Kentucky",
+    "url": "/cbb/schools/western-kentucky/men/2023.html",
+    "textId": "western-kentucky"
   },
   {
     "id": 353,
-    "name": "Western Michigan"
+    "name": "Western Michigan",
+    "url": "/cbb/schools/western-michigan/men/2023.html",
+    "textId": "western-michigan"
   },
   {
     "id": 354,
-    "name": "Wichita State"
+    "name": "Wichita State",
+    "url": "/cbb/schools/wichita-state/men/2023.html",
+    "textId": "wichita-state"
   },
   {
     "id": 355,
-    "name": "William & Mary"
+    "name": "William & Mary",
+    "url": "/cbb/schools/william-mary/men/2023.html",
+    "textId": "william-mary"
   },
   {
     "id": 356,
-    "name": "Winthrop"
+    "name": "Winthrop",
+    "url": "/cbb/schools/winthrop/men/2023.html",
+    "textId": "winthrop"
   },
   {
     "id": 357,
-    "name": "Wisconsin"
+    "name": "Wisconsin",
+    "url": "/cbb/schools/wisconsin/men/2023.html",
+    "textId": "wisconsin"
   },
   {
     "id": 358,
-    "name": "Wofford"
+    "name": "Wofford",
+    "url": "/cbb/schools/wofford/men/2023.html",
+    "textId": "wofford"
   },
   {
     "id": 359,
-    "name": "Wright State"
+    "name": "Wright State",
+    "url": "/cbb/schools/wright-state/men/2023.html",
+    "textId": "wright-state"
   },
   {
     "id": 360,
-    "name": "Wyoming"
+    "name": "Wyoming",
+    "url": "/cbb/schools/wyoming/men/2023.html",
+    "textId": "wyoming"
   },
   {
     "id": 361,
-    "name": "Xavier"
+    "name": "Xavier",
+    "url": "/cbb/schools/xavier/men/2023.html",
+    "textId": "xavier"
   },
   {
     "id": 362,
-    "name": "Yale"
+    "name": "Yale",
+    "url": "/cbb/schools/yale/men/2023.html",
+    "textId": "yale"
   },
   {
     "id": 363,
-    "name": "Youngstown State"
+    "name": "Youngstown State",
+    "url": "/cbb/schools/youngstown-state/men/2023.html",
+    "textId": "youngstown-state"
+  },
+  {
+    "id": 364,
+    "name": "Stanford Poopers",
+    "textId": "stanford-pratters",
+    "url": "/some/stuff/here"
   }
 ]
