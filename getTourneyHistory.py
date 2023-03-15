@@ -38,5 +38,5 @@ for row in body.find_all('tr'):
         print("yearObj.champion is", yearObj[year]["champion"])
 # print(champions)
 
-with open('../champions.json', 'w') as f:
+with open('champions.json', 'w') as f:
     json.dump(champions, f, indent=2)

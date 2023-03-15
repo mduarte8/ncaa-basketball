@@ -1,10 +1,12 @@
 from bs4 import BeautifulSoup
 import requests
 import json
+import sys
+from getTeamId import getTeamId
 
 baseUrl = "https://www.sports-reference.com"
 
-f = open("../champions.json", "rb")
+f = open("champions.json", "rb")
 jsonObject = json.load(f)
 f.close()
 
@@ -15,12 +17,12 @@ print("tourneyObj is", tourneyObj)
 
 # this accesses the single year key of the current yearObj, turns it into a list and accesses it as the first element in the list
 yearKey = list(tourneyObj.keys())[0]
-print("year is", yearKey)
+# print("year is", yearKey)
 winner = tourneyObj[yearKey]
-print("output is", winner)
+# print("output is", winner)
 
 fullUrl = baseUrl + winner['url']
-print("fullUrl is", fullUrl)
+# print("fullUrl is", fullUrl)
 
 response = requests.get(fullUrl)
 soup = BeautifulSoup(response.text, 'html.parser')
@@ -43,22 +45,22 @@ tourneyGames = []
 
 for division in divisions:
 
-    print("@@@ division.id is", division.get('id'), "@@@"*30)
+    print("@@@ division.id is", division.get('id'), "@@@" * 30)
     rounds = division.find_all('div', {"class": "round"})
-    print("Division id is", division.get('id'))
+    # print("Division id is", division.get('id'))
     # this is to check for the final four separate page, and corrects the round number since the page resets the rounds to 0 in a separate division div
     # print("rounds is", rounds)
     for index, round in enumerate(rounds):
         roundNum = index + 1 if division.get('id') != "national" else index + 4
-        print("round index issssss", roundNum)
-        print("#"*5, "Round", "#"*5)
+        # print("round index issssss", roundNum)
+        # print("#"*5, "Round", "#"*5)
         games = round.find_all('div', recursive=False)
-        print("len(games) is", len(games))
+        # print("len(games) is", len(games))
         for game in games:
-            print("*"*10, "GAME", "*"*10)
-            print("game.text is", game.text)
+            # print("*"*10, "GAME", "*"*10)
+            # print("game.text is", game.text)
             teams = game.find_all('div')
-            print("len(teams is)", len(teams))
+            # print("len(teams is)", len(teams))
             if len(teams) > 1:
                 gameObj = {"division": division.get('id')}
                 gameCounter += 1
@@ -67,16 +69,17 @@ for division in divisions:
                 # location of game is stored as a span in the game div
                 gameObj["location"] = game.find("span", recursive=False).text
                 for team in teams:
-                    print("/"*15, "team", "/"*15)
-                    print(team)
+                    # print("/"*15, "team", "/"*15)
+                    # print(team)
                     team_tags = team.find_all('a')
                     team_spans = team.find_all('span')
                     rank = team.span.text  # first span in the div should be the ranking of the team
-                    teamObj = {"name": team_tags[0].text, "rank": rank,
+                    teamObj = {"name": team_tags[0].text, "id": getTeamId(team_tags[0].text), "rank": rank,
                                "score": team_tags[1].text, "team_url": team_tags[0]['href']}
+                    print(teamObj['name'], "'s id is", getTeamId(teamObj['name']))
                     gameObj["game_url"] = team_tags[1]['href']
                     if team.has_attr("class"):
-                        print("team class is", team['class'])
+                        # print("team class is", team['class'])
                         if 'winner' in team['class']:
                             # returns a result set of a tags, as there are both a tags for Team name and Score
                             # name should be first element found
@@ -84,21 +87,21 @@ for division in divisions:
                             # score should be 2nd elment found
                             # gameObj["winner_score"] = team_tags[1].text
                             print("WINNER WINNER CHICKEN DINNER", team.text)
-                    # print(team.text)
+                        # print(team.text)
                         else:
                             print(
                                 "something wrong should not be able to get to this since team obj needs winner class")
                     else:
                         gameObj["loser"] = teamObj
-                    print("/"*15, "end team", "/"*15)
+                    # print("/"*15, "end team", "/"*15)
                 tourneyGames.append(gameObj)
-                print("*"*10, "end GAME", "*"*10)
-        print("#"*5, "end Round", "#"*5)
-    print("@"*6)
+                # print("*"*10, "end GAME", "*"*10)
+        # print("#"*5, "end Round", "#"*5)
+    # print("@"*6)
 
-print(tourneyGames)
+# print(tourneyGames)
 
 # body = soup.find('tbody')
 
-with open('../tourneyTest.json', 'w') as f:
+with open('tourneyTest.json', 'w') as f:
     json.dump(tourneyGames, f, indent=2)

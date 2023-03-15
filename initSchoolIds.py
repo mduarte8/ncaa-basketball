@@ -17,7 +17,7 @@ for school in getSchoolsTable(suffix_url):
 
 print(teams)
 
-with open('../teamIds.json', 'w') as f:
+with open('teamIds.json', 'w') as f:
     json.dump(teams, f, indent=2)
 
 # if (team.has_attr("class")):

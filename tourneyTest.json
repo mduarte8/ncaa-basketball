@@ -7,12 +7,14 @@
     "game_url": "/cbb/boxscores/2022-03-17-14-baylor.html",
     "winner": {
       "name": "Baylor",
+      "id": 20,
       "rank": "1",
       "score": "85",
       "team_url": "/cbb/schools/baylor/men/2022.html"
     },
     "loser": {
       "name": "Norfolk State",
+      "id": 204,
       "rank": "16",
       "score": "49",
       "team_url": "/cbb/schools/norfolk-state/men/2022.html"
@@ -26,12 +28,14 @@
     "game_url": "/cbb/boxscores/2022-03-17-16-north-carolina.html",
     "winner": {
       "name": "UNC",
+      "id": 364,
       "rank": "8",
       "score": "95",
       "team_url": "/cbb/schools/north-carolina/men/2022.html"
     },
     "loser": {
       "name": "Marquette",
+      "id": 162,
       "rank": "9",
       "score": "63",
       "team_url": "/cbb/schools/marquette/men/2022.html"
@@ -45,12 +49,14 @@
     "game_url": "/cbb/boxscores/2022-03-17-19-saint-marys-ca.html",
     "winner": {
       "name": "Saint Mary's",
+      "id": 364,
       "rank": "5",
       "score": "82",
       "team_url": "/cbb/schools/saint-marys-ca/men/2022.html"
     },
     "loser": {
       "name": "Indiana",
+      "id": 124,
       "rank": "12",
       "score": "53",
       "team_url": "/cbb/schools/indiana/men/2022.html"
@@ -64,12 +70,14 @@
     "game_url": "/cbb/boxscores/2022-03-17-21-ucla.html",
     "winner": {
       "name": "UCLA",
+      "id": 325,
       "rank": "4",
       "score": "57",
       "team_url": "/cbb/schools/ucla/men/2022.html"
     },
     "loser": {
       "name": "Akron",
+      "id": 3,
       "rank": "13",
       "score": "53",
       "team_url": "/cbb/schools/akron/men/2022.html"
@@ -83,12 +91,14 @@
     "game_url": "/cbb/boxscores/2022-03-18-16-texas.html",
     "winner": {
       "name": "Texas",
+      "id": 305,
       "rank": "6",
       "score": "81",
       "team_url": "/cbb/schools/texas/men/2022.html"
     },
     "loser": {
       "name": "Virginia Tech",
+      "id": 343,
       "rank": "11",
       "score": "73",
       "team_url": "/cbb/schools/virginia-tech/men/2022.html"
@@ -102,12 +112,14 @@
     "game_url": "/cbb/boxscores/2022-03-18-14-purdue.html",
     "winner": {
       "name": "Purdue",
+      "id": 243,
       "rank": "3",
       "score": "78",
       "team_url": "/cbb/schools/purdue/men/2022.html"
     },
     "loser": {
       "name": "Yale",
+      "id": 362,
       "rank": "14",
       "score": "56",
       "team_url": "/cbb/schools/yale/men/2022.html"
@@ -121,12 +133,14 @@
     "game_url": "/cbb/boxscores/2022-03-17-21-murray-state.html",
     "winner": {
       "name": "Murray State",
+      "id": 191,
       "rank": "7",
       "score": "92",
       "team_url": "/cbb/schools/murray-state/men/2022.html"
     },
     "loser": {
       "name": "San Francisco",
+      "id": 265,
       "rank": "10",
       "score": "87",
       "team_url": "/cbb/schools/san-francisco/men/2022.html"
@@ -140,12 +154,14 @@
     "game_url": "/cbb/boxscores/2022-03-17-19-kentucky.html",
     "loser": {
       "name": "Kentucky",
+      "id": 139,
       "rank": "2",
       "score": "79",
       "team_url": "/cbb/schools/kentucky/men/2022.html"
     },
     "winner": {
       "name": "St. Peter's",
+      "id": 364,
       "rank": "15",
       "score": "85",
       "team_url": "/cbb/schools/saint-peters/men/2022.html"
@@ -159,12 +175,14 @@
     "game_url": "/cbb/boxscores/2022-03-19-12-baylor.html",
     "loser": {
       "name": "Baylor",
+      "id": 20,
       "rank": "1",
       "score": "86",
       "team_url": "/cbb/schools/baylor/men/2022.html"
     },
     "winner": {
       "name": "UNC",
+      "id": 364,
       "rank": "8",
       "score": "93",
       "team_url": "/cbb/schools/north-carolina/men/2022.html"
@@ -178,12 +196,14 @@
     "game_url": "/cbb/boxscores/2022-03-19-19-ucla.html",
     "loser": {
       "name": "Saint Mary's",
+      "id": 364,
       "rank": "5",
       "score": "56",
       "team_url": "/cbb/schools/saint-marys-ca/men/2022.html"
     },
     "winner": {
       "name": "UCLA",
+      "id": 325,
       "rank": "4",
       "score": "72",
       "team_url": "/cbb/schools/ucla/men/2022.html"
@@ -197,12 +217,14 @@
     "game_url": "/cbb/boxscores/2022-03-20-20-purdue.html",
     "loser": {
       "name": "Texas",
+      "id": 305,
       "rank": "6",
       "score": "71",
       "team_url": "/cbb/schools/texas/men/2022.html"
     },
     "winner": {
       "name": "Purdue",
+      "id": 243,
       "rank": "3",
       "score": "81",
       "team_url": "/cbb/schools/purdue/men/2022.html"
@@ -216,12 +238,14 @@
     "game_url": "/cbb/boxscores/2022-03-19-20-murray-state.html",
     "loser": {
       "name": "Murray State",
+      "id": 191,
       "rank": "7",
       "score": "60",
       "team_url": "/cbb/schools/murray-state/men/2022.html"
     },
     "winner": {
       "name": "St. Peter's",
+      "id": 364,
       "rank": "15",
       "score": "70",
       "team_url": "/cbb/schools/saint-peters/men/2022.html"
@@ -235,12 +259,14 @@
     "game_url": "/cbb/boxscores/2022-03-25-21-ucla.html",
     "winner": {
       "name": "UNC",
+      "id": 364,
       "rank": "8",
       "score": "73",
       "team_url": "/cbb/schools/north-carolina/men/2022.html"
     },
     "loser": {
       "name": "UCLA",
+      "id": 325,
       "rank": "4",
       "score": "66",
       "team_url": "/cbb/schools/ucla/men/2022.html"
@@ -254,12 +280,14 @@
     "game_url": "/cbb/boxscores/2022-03-25-19-purdue.html",
     "loser": {
       "name": "Purdue",
+      "id": 243,
       "rank": "3",
       "score": "64",
       "team_url": "/cbb/schools/purdue/men/2022.html"
     },
     "winner": {
       "name": "St. Peter's",
+      "id": 364,
       "rank": "15",
       "score": "67",
       "team_url": "/cbb/schools/saint-peters/men/2022.html"
@@ -273,12 +301,14 @@
     "game_url": "/cbb/boxscores/2022-03-27-17-north-carolina.html",
     "winner": {
       "name": "UNC",
+      "id": 364,
       "rank": "8",
       "score": "69",
       "team_url": "/cbb/schools/north-carolina/men/2022.html"
     },
     "loser": {
       "name": "St. Peter's",
+      "id": 364,
       "rank": "15",
       "score": "49",
       "team_url": "/cbb/schools/saint-peters/men/2022.html"
@@ -292,12 +322,14 @@
     "game_url": "/cbb/boxscores/2022-03-17-21-kansas.html",
     "winner": {
       "name": "Kansas",
+      "id": 134,
       "rank": "1",
       "score": "83",
       "team_url": "/cbb/schools/kansas/men/2022.html"
     },
     "loser": {
       "name": "Texas Southern",
+      "id": 309,
       "rank": "16",
       "score": "56",
       "team_url": "/cbb/schools/texas-southern/men/2022.html"
@@ -311,12 +343,14 @@
     "game_url": "/cbb/boxscores/2022-03-17-19-san-diego-state.html",
     "loser": {
       "name": "San Diego State",
+      "id": 264,
       "rank": "8",
       "score": "69",
       "team_url": "/cbb/schools/san-diego-state/men/2022.html"
     },
     "winner": {
       "name": "Creighton",
+      "id": 64,
       "rank": "9",
       "score": "72",
       "team_url": "/cbb/schools/creighton/men/2022.html"
@@ -330,12 +364,14 @@
     "game_url": "/cbb/boxscores/2022-03-17-15-iowa.html",
     "loser": {
       "name": "Iowa",
+      "id": 127,
       "rank": "5",
       "score": "63",
       "team_url": "/cbb/schools/iowa/men/2022.html"
     },
     "winner": {
       "name": "Richmond",
+      "id": 250,
       "rank": "12",
       "score": "67",
       "team_url": "/cbb/schools/richmond/men/2022.html"
@@ -349,12 +385,14 @@
     "game_url": "/cbb/boxscores/2022-03-17-12-providence.html",
     "winner": {
       "name": "Providence",
+      "id": 242,
       "rank": "4",
       "score": "66",
       "team_url": "/cbb/schools/providence/men/2022.html"
     },
     "loser": {
       "name": "South Dakota State",
+      "id": 276,
       "rank": "13",
       "score": "57",
       "team_url": "/cbb/schools/south-dakota-state/men/2022.html"
@@ -368,12 +406,14 @@
     "game_url": "/cbb/boxscores/2022-03-18-19-louisiana-state.html",
     "loser": {
       "name": "LSU",
+      "id": 364,
       "rank": "6",
       "score": "54",
       "team_url": "/cbb/schools/louisiana-state/men/2022.html"
     },
     "winner": {
       "name": "Iowa State",
+      "id": 128,
       "rank": "11",
       "score": "59",
       "team_url": "/cbb/schools/iowa-state/men/2022.html"
@@ -387,12 +427,14 @@
     "game_url": "/cbb/boxscores/2022-03-18-21-wisconsin.html",
     "winner": {
       "name": "Wisconsin",
+      "id": 357,
       "rank": "3",
       "score": "67",
       "team_url": "/cbb/schools/wisconsin/men/2022.html"
     },
     "loser": {
       "name": "Colgate",
+      "id": 56,
       "rank": "14",
       "score": "60",
       "team_url": "/cbb/schools/colgate/men/2022.html"
@@ -406,12 +448,14 @@
     "game_url": "/cbb/boxscores/2022-03-18-15-southern-california.html",
     "loser": {
       "name": "USC",
+      "id": 364,
       "rank": "7",
       "score": "66",
       "team_url": "/cbb/schools/southern-california/men/2022.html"
     },
     "winner": {
       "name": "Miami (FL)",
+      "id": 173,
       "rank": "10",
       "score": "68",
       "team_url": "/cbb/schools/miami-fl/men/2022.html"
@@ -425,12 +469,14 @@
     "game_url": "/cbb/boxscores/2022-03-18-12-auburn.html",
     "winner": {
       "name": "Auburn",
+      "id": 17,
       "rank": "2",
       "score": "80",
       "team_url": "/cbb/schools/auburn/men/2022.html"
     },
     "loser": {
       "name": "Jacksonville State",
+      "id": 132,
       "rank": "15",
       "score": "61",
       "team_url": "/cbb/schools/jacksonville-state/men/2022.html"
@@ -444,12 +490,14 @@
     "game_url": "/cbb/boxscores/2022-03-19-14-kansas.html",
     "winner": {
       "name": "Kansas",
+      "id": 134,
       "rank": "1",
       "score": "79",
       "team_url": "/cbb/schools/kansas/men/2022.html"
     },
     "loser": {
       "name": "Creighton",
+      "id": 64,
       "rank": "9",
       "score": "72",
       "team_url": "/cbb/schools/creighton/men/2022.html"
@@ -463,12 +511,14 @@
     "game_url": "/cbb/boxscores/2022-03-19-18-providence.html",
     "loser": {
       "name": "Richmond",
+      "id": 250,
       "rank": "12",
       "score": "51",
       "team_url": "/cbb/schools/richmond/men/2022.html"
     },
     "winner": {
       "name": "Providence",
+      "id": 242,
       "rank": "4",
       "score": "79",
       "team_url": "/cbb/schools/providence/men/2022.html"
@@ -482,12 +532,14 @@
     "game_url": "/cbb/boxscores/2022-03-20-18-wisconsin.html",
     "winner": {
       "name": "Iowa State",
+      "id": 128,
       "rank": "11",
       "score": "54",
       "team_url": "/cbb/schools/iowa-state/men/2022.html"
     },
     "loser": {
       "name": "Wisconsin",
+      "id": 357,
       "rank": "3",
       "score": "49",
       "team_url": "/cbb/schools/wisconsin/men/2022.html"
@@ -501,12 +553,14 @@
     "game_url": "/cbb/boxscores/2022-03-20-19-auburn.html",
     "winner": {
       "name": "Miami (FL)",
+      "id": 173,
       "rank": "10",
       "score": "79",
       "team_url": "/cbb/schools/miami-fl/men/2022.html"
     },
     "loser": {
       "name": "Auburn",
+      "id": 17,
       "rank": "2",
       "score": "61",
       "team_url": "/cbb/schools/auburn/men/2022.html"
@@ -520,12 +574,14 @@
     "game_url": "/cbb/boxscores/2022-03-25-19-kansas.html",
     "winner": {
       "name": "Kansas",
+      "id": 134,
       "rank": "1",
       "score": "66",
       "team_url": "/cbb/schools/kansas/men/2022.html"
     },
     "loser": {
       "name": "Providence",
+      "id": 242,
       "rank": "4",
       "score": "61",
       "team_url": "/cbb/schools/providence/men/2022.html"
@@ -539,12 +595,14 @@
     "game_url": "/cbb/boxscores/2022-03-25-21-miami-fl.html",
     "loser": {
       "name": "Iowa State",
+      "id": 128,
       "rank": "11",
       "score": "56",
       "team_url": "/cbb/schools/iowa-state/men/2022.html"
     },
     "winner": {
       "name": "Miami (FL)",
+      "id": 173,
       "rank": "10",
       "score": "70",
       "team_url": "/cbb/schools/miami-fl/men/2022.html"
@@ -558,12 +616,14 @@
     "game_url": "/cbb/boxscores/2022-03-27-14-kansas.html",
     "winner": {
       "name": "Kansas",
+      "id": 134,
       "rank": "1",
       "score": "76",
       "team_url": "/cbb/schools/kansas/men/2022.html"
     },
     "loser": {
       "name": "Miami (FL)",
+      "id": 173,
       "rank": "10",
       "score": "50",
       "team_url": "/cbb/schools/miami-fl/men/2022.html"
@@ -577,12 +637,14 @@
     "game_url": "/cbb/boxscores/2022-03-18-19-arizona.html",
     "winner": {
       "name": "Arizona",
+      "id": 11,
       "rank": "1",
       "score": "87",
       "team_url": "/cbb/schools/arizona/men/2022.html"
     },
     "loser": {
       "name": "Wright State",
+      "id": 359,
       "rank": "16",
       "score": "70",
       "team_url": "/cbb/schools/wright-state/men/2022.html"
@@ -596,12 +658,14 @@
     "game_url": "/cbb/boxscores/2022-03-18-21-seton-hall.html",
     "loser": {
       "name": "Seton Hall",
+      "id": 269,
       "rank": "8",
       "score": "42",
       "team_url": "/cbb/schools/seton-hall/men/2022.html"
     },
     "winner": {
       "name": "TCU",
+      "id": 299,
       "rank": "9",
       "score": "69",
       "team_url": "/cbb/schools/texas-christian/men/2022.html"
@@ -615,12 +679,14 @@
     "game_url": "/cbb/boxscores/2022-03-18-21-houston.html",
     "winner": {
       "name": "Houston",
+      "id": 115,
       "rank": "5",
       "score": "82",
       "team_url": "/cbb/schools/houston/men/2022.html"
     },
     "loser": {
       "name": "UAB",
+      "id": 319,
       "rank": "12",
       "score": "68",
       "team_url": "/cbb/schools/alabama-birmingham/men/2022.html"
@@ -634,12 +700,14 @@
     "game_url": "/cbb/boxscores/2022-03-18-18-illinois.html",
     "winner": {
       "name": "Illinois",
+      "id": 120,
       "rank": "4",
       "score": "54",
       "team_url": "/cbb/schools/illinois/men/2022.html"
     },
     "loser": {
       "name": "Chattanooga",
+      "id": 50,
       "rank": "13",
       "score": "53",
       "team_url": "/cbb/schools/chattanooga/men/2022.html"
@@ -653,12 +721,14 @@
     "game_url": "/cbb/boxscores/2022-03-17-12-colorado-state.html",
     "loser": {
       "name": "Colorado State",
+      "id": 59,
       "rank": "6",
       "score": "63",
       "team_url": "/cbb/schools/colorado-state/men/2022.html"
     },
     "winner": {
       "name": "Michigan",
+      "id": 175,
       "rank": "11",
       "score": "75",
       "team_url": "/cbb/schools/michigan/men/2022.html"
@@ -672,12 +742,14 @@
     "game_url": "/cbb/boxscores/2022-03-17-14-tennessee.html",
     "winner": {
       "name": "Tennessee",
+      "id": 301,
       "rank": "3",
       "score": "88",
       "team_url": "/cbb/schools/tennessee/men/2022.html"
     },
     "loser": {
       "name": "Longwood",
+      "id": 150,
       "rank": "14",
       "score": "56",
       "team_url": "/cbb/schools/longwood/men/2022.html"
@@ -691,12 +763,14 @@
     "game_url": "/cbb/boxscores/2022-03-18-12-ohio-state.html",
     "winner": {
       "name": "Ohio State",
+      "id": 224,
       "rank": "7",
       "score": "54",
       "team_url": "/cbb/schools/ohio-state/men/2022.html"
     },
     "loser": {
       "name": "Loyola (IL)",
+      "id": 156,
       "rank": "10",
       "score": "41",
       "team_url": "/cbb/schools/loyola-il/men/2022.html"
@@ -710,12 +784,14 @@
     "game_url": "/cbb/boxscores/2022-03-18-14-villanova.html",
     "winner": {
       "name": "Villanova",
+      "id": 339,
       "rank": "2",
       "score": "80",
       "team_url": "/cbb/schools/villanova/men/2022.html"
     },
     "loser": {
       "name": "Delaware",
+      "id": 68,
       "rank": "15",
       "score": "60",
       "team_url": "/cbb/schools/delaware/men/2022.html"
@@ -729,12 +805,14 @@
     "game_url": "/cbb/boxscores/2022-03-20-21-arizona.html",
     "winner": {
       "name": "Arizona",
+      "id": 11,
       "rank": "1",
       "score": "85",
       "team_url": "/cbb/schools/arizona/men/2022.html"
     },
     "loser": {
       "name": "TCU",
+      "id": 299,
       "rank": "9",
       "score": "80",
       "team_url": "/cbb/schools/texas-christian/men/2022.html"
@@ -748,12 +826,14 @@
     "game_url": "/cbb/boxscores/2022-03-20-12-illinois.html",
     "winner": {
       "name": "Houston",
+      "id": 115,
       "rank": "5",
       "score": "68",
       "team_url": "/cbb/schools/houston/men/2022.html"
     },
     "loser": {
       "name": "Illinois",
+      "id": 120,
       "rank": "4",
       "score": "53",
       "team_url": "/cbb/schools/illinois/men/2022.html"
@@ -767,12 +847,14 @@
     "game_url": "/cbb/boxscores/2022-03-19-17-tennessee.html",
     "winner": {
       "name": "Michigan",
+      "id": 175,
       "rank": "11",
       "score": "76",
       "team_url": "/cbb/schools/michigan/men/2022.html"
     },
     "loser": {
       "name": "Tennessee",
+      "id": 301,
       "rank": "3",
       "score": "68",
       "team_url": "/cbb/schools/tennessee/men/2022.html"
@@ -786,12 +868,14 @@
     "game_url": "/cbb/boxscores/2022-03-20-14-villanova.html",
     "loser": {
       "name": "Ohio State",
+      "id": 224,
       "rank": "7",
       "score": "61",
       "team_url": "/cbb/schools/ohio-state/men/2022.html"
     },
     "winner": {
       "name": "Villanova",
+      "id": 339,
       "rank": "2",
       "score": "71",
       "team_url": "/cbb/schools/villanova/men/2022.html"
@@ -805,12 +889,14 @@
     "game_url": "/cbb/boxscores/2022-03-24-21-arizona.html",
     "loser": {
       "name": "Arizona",
+      "id": 11,
       "rank": "1",
       "score": "60",
       "team_url": "/cbb/schools/arizona/men/2022.html"
     },
     "winner": {
       "name": "Houston",
+      "id": 115,
       "rank": "5",
       "score": "72",
       "team_url": "/cbb/schools/houston/men/2022.html"
@@ -824,12 +910,14 @@
     "game_url": "/cbb/boxscores/2022-03-24-19-villanova.html",
     "loser": {
       "name": "Michigan",
+      "id": 175,
       "rank": "11",
       "score": "55",
       "team_url": "/cbb/schools/michigan/men/2022.html"
     },
     "winner": {
       "name": "Villanova",
+      "id": 339,
       "rank": "2",
       "score": "63",
       "team_url": "/cbb/schools/villanova/men/2022.html"
@@ -843,12 +931,14 @@
     "game_url": "/cbb/boxscores/2022-03-26-18-villanova.html",
     "loser": {
       "name": "Houston",
+      "id": 115,
       "rank": "5",
       "score": "44",
       "team_url": "/cbb/schools/houston/men/2022.html"
     },
     "winner": {
       "name": "Villanova",
+      "id": 339,
       "rank": "2",
       "score": "50",
       "team_url": "/cbb/schools/villanova/men/2022.html"
@@ -862,12 +952,14 @@
     "game_url": "/cbb/boxscores/2022-03-17-16-gonzaga.html",
     "winner": {
       "name": "Gonzaga",
+      "id": 104,
       "rank": "1",
       "score": "93",
       "team_url": "/cbb/schools/gonzaga/men/2022.html"
     },
     "loser": {
       "name": "Georgia State",
+      "id": 102,
       "rank": "16",
       "score": "72",
       "team_url": "/cbb/schools/georgia-state/men/2022.html"
@@ -881,12 +973,14 @@
     "game_url": "/cbb/boxscores/2022-03-17-13-boise-state.html",
     "loser": {
       "name": "Boise State",
+      "id": 25,
       "rank": "8",
       "score": "53",
       "team_url": "/cbb/schools/boise-state/men/2022.html"
     },
     "winner": {
       "name": "Memphis",
+      "id": 170,
       "rank": "9",
       "score": "64",
       "team_url": "/cbb/schools/memphis/men/2022.html"
@@ -900,12 +994,14 @@
     "game_url": "/cbb/boxscores/2022-03-17-18-connecticut.html",
     "loser": {
       "name": "UConn",
+      "id": 364,
       "rank": "5",
       "score": "63",
       "team_url": "/cbb/schools/connecticut/men/2022.html"
     },
     "winner": {
       "name": "New Mexico State",
+      "id": 199,
       "rank": "12",
       "score": "70",
       "team_url": "/cbb/schools/new-mexico-state/men/2022.html"
@@ -919,12 +1015,14 @@
     "game_url": "/cbb/boxscores/2022-03-17-21-arkansas.html",
     "winner": {
       "name": "Arkansas",
+      "id": 13,
       "rank": "4",
       "score": "75",
       "team_url": "/cbb/schools/arkansas/men/2022.html"
     },
     "loser": {
       "name": "Vermont",
+      "id": 338,
       "rank": "13",
       "score": "71",
       "team_url": "/cbb/schools/vermont/men/2022.html"
@@ -938,12 +1036,14 @@
     "game_url": "/cbb/boxscores/2022-03-18-16-alabama.html",
     "loser": {
       "name": "Alabama",
+      "id": 4,
       "rank": "6",
       "score": "64",
       "team_url": "/cbb/schools/alabama/men/2022.html"
     },
     "winner": {
       "name": "Notre Dame",
+      "id": 221,
       "rank": "11",
       "score": "78",
       "team_url": "/cbb/schools/notre-dame/men/2022.html"
@@ -957,12 +1057,14 @@
     "game_url": "/cbb/boxscores/2022-03-18-13-texas-tech.html",
     "winner": {
       "name": "Texas Tech",
+      "id": 311,
       "rank": "3",
       "score": "97",
       "team_url": "/cbb/schools/texas-tech/men/2022.html"
     },
     "loser": {
       "name": "Montana State",
+      "id": 187,
       "rank": "14",
       "score": "62",
       "team_url": "/cbb/schools/montana-state/men/2022.html"
@@ -976,12 +1078,14 @@
     "game_url": "/cbb/boxscores/2022-03-18-21-michigan-state.html",
     "winner": {
       "name": "Michigan State",
+      "id": 176,
       "rank": "7",
       "score": "74",
       "team_url": "/cbb/schools/michigan-state/men/2022.html"
     },
     "loser": {
       "name": "Davidson",
+      "id": 66,
       "rank": "10",
       "score": "73",
       "team_url": "/cbb/schools/davidson/men/2022.html"
@@ -995,12 +1099,14 @@
     "game_url": "/cbb/boxscores/2022-03-18-19-duke.html",
     "winner": {
       "name": "Duke",
+      "id": 75,
       "rank": "2",
       "score": "78",
       "team_url": "/cbb/schools/duke/men/2022.html"
     },
     "loser": {
       "name": "Cal State Fullerton",
+      "id": 38,
       "rank": "15",
       "score": "61",
       "team_url": "/cbb/schools/cal-state-fullerton/men/2022.html"
@@ -1014,12 +1120,14 @@
     "game_url": "/cbb/boxscores/2022-03-19-21-gonzaga.html",
     "winner": {
       "name": "Gonzaga",
+      "id": 104,
       "rank": "1",
       "score": "82",
       "team_url": "/cbb/schools/gonzaga/men/2022.html"
     },
     "loser": {
       "name": "Memphis",
+      "id": 170,
       "rank": "9",
       "score": "78",
       "team_url": "/cbb/schools/memphis/men/2022.html"
@@ -1033,12 +1141,14 @@
     "game_url": "/cbb/boxscores/2022-03-19-20-arkansas.html",
     "loser": {
       "name": "New Mexico State",
+      "id": 199,
       "rank": "12",
       "score": "48",
       "team_url": "/cbb/schools/new-mexico-state/men/2022.html"
     },
     "winner": {
       "name": "Arkansas",
+      "id": 13,
       "rank": "4",
       "score": "53",
       "team_url": "/cbb/schools/arkansas/men/2022.html"
@@ -1052,12 +1162,14 @@
     "game_url": "/cbb/boxscores/2022-03-20-19-texas-tech.html",
     "loser": {
       "name": "Notre Dame",
+      "id": 221,
       "rank": "11",
       "score": "53",
       "team_url": "/cbb/schools/notre-dame/men/2022.html"
     },
     "winner": {
       "name": "Texas Tech",
+      "id": 311,
       "rank": "3",
       "score": "59",
       "team_url": "/cbb/schools/texas-tech/men/2022.html"
@@ -1071,12 +1183,14 @@
     "game_url": "/cbb/boxscores/2022-03-20-17-duke.html",
     "loser": {
       "name": "Michigan State",
+      "id": 176,
       "rank": "7",
       "score": "76",
       "team_url": "/cbb/schools/michigan-state/men/2022.html"
     },
     "winner": {
       "name": "Duke",
+      "id": 75,
       "rank": "2",
       "score": "85",
       "team_url": "/cbb/schools/duke/men/2022.html"
@@ -1090,12 +1204,14 @@
     "game_url": "/cbb/boxscores/2022-03-24-19-gonzaga.html",
     "loser": {
       "name": "Gonzaga",
+      "id": 104,
       "rank": "1",
       "score": "68",
       "team_url": "/cbb/schools/gonzaga/men/2022.html"
     },
     "winner": {
       "name": "Arkansas",
+      "id": 13,
       "rank": "4",
       "score": "74",
       "team_url": "/cbb/schools/arkansas/men/2022.html"
@@ -1109,12 +1225,14 @@
     "game_url": "/cbb/boxscores/2022-03-24-21-duke.html",
     "loser": {
       "name": "Texas Tech",
+      "id": 311,
       "rank": "3",
       "score": "73",
       "team_url": "/cbb/schools/texas-tech/men/2022.html"
     },
     "winner": {
       "name": "Duke",
+      "id": 75,
       "rank": "2",
       "score": "78",
       "team_url": "/cbb/schools/duke/men/2022.html"
@@ -1128,12 +1246,14 @@
     "game_url": "/cbb/boxscores/2022-03-26-20-duke.html",
     "loser": {
       "name": "Arkansas",
+      "id": 13,
       "rank": "4",
       "score": "69",
       "team_url": "/cbb/schools/arkansas/men/2022.html"
     },
     "winner": {
       "name": "Duke",
+      "id": 75,
       "rank": "2",
       "score": "78",
       "team_url": "/cbb/schools/duke/men/2022.html"
@@ -1147,12 +1267,14 @@
     "game_url": "/cbb/boxscores/2022-04-02-18-kansas.html",
     "loser": {
       "name": "Villanova",
+      "id": 339,
       "rank": "2",
       "score": "65",
       "team_url": "/cbb/schools/villanova/men/2022.html"
     },
     "winner": {
       "name": "Kansas",
+      "id": 134,
       "rank": "1",
       "score": "81",
       "team_url": "/cbb/schools/kansas/men/2022.html"
@@ -1166,12 +1288,14 @@
     "game_url": "/cbb/boxscores/2022-04-02-20-duke.html",
     "loser": {
       "name": "Duke",
+      "id": 75,
       "rank": "2",
       "score": "77",
       "team_url": "/cbb/schools/duke/men/2022.html"
     },
     "winner": {
       "name": "UNC",
+      "id": 364,
       "rank": "8",
       "score": "81",
       "team_url": "/cbb/schools/north-carolina/men/2022.html"
@@ -1185,12 +1309,14 @@
     "game_url": "/cbb/boxscores/2022-04-04-21-kansas.html",
     "winner": {
       "name": "Kansas",
+      "id": 134,
       "rank": "1",
       "score": "72",
       "team_url": "/cbb/schools/kansas/men/2022.html"
     },
     "loser": {
       "name": "UNC",
+      "id": 364,
       "rank": "8",
       "score": "69",
       "team_url": "/cbb/schools/north-carolina/men/2022.html"
