@@ -4,7 +4,7 @@ f = open("teamIds.json", "rb")
 teamJsonObject = json.load(f)
 f.close()
 
-print("from GET TEAM ID", teamJsonObject)
+# print("from GET TEAM ID", teamJsonObject)
 
 
 def getTeamId(teamName):  # takes in string of team name

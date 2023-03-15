@@ -1,0 +1,32 @@
+ [
+  {
+    "2022": {
+      "champion": "Kansas",
+      "url": "/cbb/postseason/men/2022-ncaa.html"
+    }
+  },
+  {
+    "2021": {
+      "champion": "Baylor",
+      "url": "/cbb/postseason/men/2021-ncaa.html"
+    }
+  },
+  {
+    "2019": {
+      "champion": "Virginia",
+      "url": "/cbb/postseason/men/2019-ncaa.html"
+    }
+  },
+  {
+    "2018": {
+      "champion": "Villanova",
+      "url": "/cbb/postseason/men/2018-ncaa.html"
+    }
+  },
+  {
+    "2017": {
+      "champion": "UNC",
+      "url": "/cbb/postseason/men/2017-ncaa.html"
+    }
+  }
+]
