@@ -1,0 +1,1454 @@
+[
+  {
+    "id": "1",
+    "name": "Abilene Christian"
+  },
+  {
+    "id": "2",
+    "name": "Air Force"
+  },
+  {
+    "id": "3",
+    "name": "Akron"
+  },
+  {
+    "id": "4",
+    "name": "Alabama"
+  },
+  {
+    "id": "5",
+    "name": "Alabama A&M"
+  },
+  {
+    "id": "6",
+    "name": "Alabama State"
+  },
+  {
+    "id": "7",
+    "name": "Albany (NY)"
+  },
+  {
+    "id": "8",
+    "name": "Alcorn State"
+  },
+  {
+    "id": "9",
+    "name": "American"
+  },
+  {
+    "id": "10",
+    "name": "Appalachian State"
+  },
+  {
+    "id": "11",
+    "name": "Arizona"
+  },
+  {
+    "id": "12",
+    "name": "Arizona State"
+  },
+  {
+    "id": "13",
+    "name": "Arkansas"
+  },
+  {
+    "id": "14",
+    "name": "Arkansas State"
+  },
+  {
+    "id": "15",
+    "name": "Arkansas-Pine Bluff"
+  },
+  {
+    "id": "16",
+    "name": "Army"
+  },
+  {
+    "id": "17",
+    "name": "Auburn"
+  },
+  {
+    "id": "18",
+    "name": "Austin Peay"
+  },
+  {
+    "id": "19",
+    "name": "Ball State"
+  },
+  {
+    "id": "20",
+    "name": "Baylor"
+  },
+  {
+    "id": "21",
+    "name": "Bellarmine"
+  },
+  {
+    "id": "22",
+    "name": "Belmont"
+  },
+  {
+    "id": "23",
+    "name": "Bethune-Cookman"
+  },
+  {
+    "id": "24",
+    "name": "Binghamton"
+  },
+  {
+    "id": "25",
+    "name": "Boise State"
+  },
+  {
+    "id": "26",
+    "name": "Boston College"
+  },
+  {
+    "id": "27",
+    "name": "Boston University"
+  },
+  {
+    "id": "28",
+    "name": "Bowling Green State"
+  },
+  {
+    "id": "29",
+    "name": "Bradley"
+  },
+  {
+    "id": "30",
+    "name": "Brigham Young"
+  },
+  {
+    "id": "31",
+    "name": "Brown"
+  },
+  {
+    "id": "32",
+    "name": "Bryant"
+  },
+  {
+    "id": "33",
+    "name": "Bucknell"
+  },
+  {
+    "id": "34",
+    "name": "Buffalo"
+  },
+  {
+    "id": "35",
+    "name": "Butler"
+  },
+  {
+    "id": "36",
+    "name": "Cal Poly"
+  },
+  {
+    "id": "37",
+    "name": "Cal State Bakersfield"
+  },
+  {
+    "id": "38",
+    "name": "Cal State Fullerton"
+  },
+  {
+    "id": "39",
+    "name": "Cal State Northridge"
+  },
+  {
+    "id": "40",
+    "name": "California"
+  },
+  {
+    "id": "41",
+    "name": "California Baptist"
+  },
+  {
+    "id": "42",
+    "name": "Campbell"
+  },
+  {
+    "id": "43",
+    "name": "Canisius"
+  },
+  {
+    "id": "44",
+    "name": "Central Arkansas"
+  },
+  {
+    "id": "45",
+    "name": "Central Connecticut State"
+  },
+  {
+    "id": "46",
+    "name": "Central Florida"
+  },
+  {
+    "id": "47",
+    "name": "Central Michigan"
+  },
+  {
+    "id": "48",
+    "name": "Charleston Southern"
+  },
+  {
+    "id": "49",
+    "name": "Charlotte"
+  },
+  {
+    "id": "50",
+    "name": "Chattanooga"
+  },
+  {
+    "id": "51",
+    "name": "Chicago State"
+  },
+  {
+    "id": "52",
+    "name": "Cincinnati"
+  },
+  {
+    "id": "53",
+    "name": "Clemson"
+  },
+  {
+    "id": "54",
+    "name": "Cleveland State"
+  },
+  {
+    "id": "55",
+    "name": "Coastal Carolina"
+  },
+  {
+    "id": "56",
+    "name": "Colgate"
+  },
+  {
+    "id": "57",
+    "name": "College of Charleston"
+  },
+  {
+    "id": "58",
+    "name": "Colorado"
+  },
+  {
+    "id": "59",
+    "name": "Colorado State"
+  },
+  {
+    "id": "60",
+    "name": "Columbia"
+  },
+  {
+    "id": "61",
+    "name": "Connecticut"
+  },
+  {
+    "id": "62",
+    "name": "Coppin State"
+  },
+  {
+    "id": "63",
+    "name": "Cornell"
+  },
+  {
+    "id": "64",
+    "name": "Creighton"
+  },
+  {
+    "id": "65",
+    "name": "Dartmouth"
+  },
+  {
+    "id": "66",
+    "name": "Davidson"
+  },
+  {
+    "id": "67",
+    "name": "Dayton"
+  },
+  {
+    "id": "68",
+    "name": "Delaware"
+  },
+  {
+    "id": "69",
+    "name": "Delaware State"
+  },
+  {
+    "id": "70",
+    "name": "Denver"
+  },
+  {
+    "id": "71",
+    "name": "DePaul"
+  },
+  {
+    "id": "72",
+    "name": "Detroit Mercy"
+  },
+  {
+    "id": "73",
+    "name": "Drake"
+  },
+  {
+    "id": "74",
+    "name": "Drexel"
+  },
+  {
+    "id": "75",
+    "name": "Duke"
+  },
+  {
+    "id": "76",
+    "name": "Duquesne"
+  },
+  {
+    "id": "77",
+    "name": "East Carolina"
+  },
+  {
+    "id": "78",
+    "name": "East Tennessee State"
+  },
+  {
+    "id": "79",
+    "name": "Eastern Illinois"
+  },
+  {
+    "id": "80",
+    "name": "Eastern Kentucky"
+  },
+  {
+    "id": "81",
+    "name": "Eastern Michigan"
+  },
+  {
+    "id": "82",
+    "name": "Eastern Washington"
+  },
+  {
+    "id": "83",
+    "name": "Elon"
+  },
+  {
+    "id": "84",
+    "name": "Evansville"
+  },
+  {
+    "id": "85",
+    "name": "Fairfield"
+  },
+  {
+    "id": "86",
+    "name": "Fairleigh Dickinson"
+  },
+  {
+    "id": "87",
+    "name": "Florida"
+  },
+  {
+    "id": "88",
+    "name": "Florida A&M"
+  },
+  {
+    "id": "89",
+    "name": "Florida Atlantic"
+  },
+  {
+    "id": "90",
+    "name": "Florida Gulf Coast"
+  },
+  {
+    "id": "91",
+    "name": "Florida International"
+  },
+  {
+    "id": "92",
+    "name": "Florida State"
+  },
+  {
+    "id": "93",
+    "name": "Fordham"
+  },
+  {
+    "id": "94",
+    "name": "Fresno State"
+  },
+  {
+    "id": "95",
+    "name": "Furman"
+  },
+  {
+    "id": "96",
+    "name": "Gardner-Webb"
+  },
+  {
+    "id": "97",
+    "name": "George Mason"
+  },
+  {
+    "id": "98",
+    "name": "George Washington"
+  },
+  {
+    "id": "99",
+    "name": "Georgetown"
+  },
+  {
+    "id": "100",
+    "name": "Georgia"
+  },
+  {
+    "id": "101",
+    "name": "Georgia Southern"
+  },
+  {
+    "id": "102",
+    "name": "Georgia State"
+  },
+  {
+    "id": "103",
+    "name": "Georgia Tech"
+  },
+  {
+    "id": "104",
+    "name": "Gonzaga"
+  },
+  {
+    "id": "105",
+    "name": "Grambling"
+  },
+  {
+    "id": "106",
+    "name": "Grand Canyon"
+  },
+  {
+    "id": "107",
+    "name": "Green Bay"
+  },
+  {
+    "id": "108",
+    "name": "Hampton"
+  },
+  {
+    "id": "109",
+    "name": "Hartford"
+  },
+  {
+    "id": "110",
+    "name": "Harvard"
+  },
+  {
+    "id": "111",
+    "name": "Hawaii"
+  },
+  {
+    "id": "112",
+    "name": "High Point"
+  },
+  {
+    "id": "113",
+    "name": "Hofstra"
+  },
+  {
+    "id": "114",
+    "name": "Holy Cross"
+  },
+  {
+    "id": "115",
+    "name": "Houston"
+  },
+  {
+    "id": "116",
+    "name": "Houston Christian"
+  },
+  {
+    "id": "117",
+    "name": "Howard"
+  },
+  {
+    "id": "118",
+    "name": "Idaho"
+  },
+  {
+    "id": "119",
+    "name": "Idaho State"
+  },
+  {
+    "id": "120",
+    "name": "Illinois"
+  },
+  {
+    "id": "121",
+    "name": "Illinois State"
+  },
+  {
+    "id": "122",
+    "name": "Illinois-Chicago"
+  },
+  {
+    "id": "123",
+    "name": "Incarnate Word"
+  },
+  {
+    "id": "124",
+    "name": "Indiana"
+  },
+  {
+    "id": "125",
+    "name": "Indiana State"
+  },
+  {
+    "id": "126",
+    "name": "Iona"
+  },
+  {
+    "id": "127",
+    "name": "Iowa"
+  },
+  {
+    "id": "128",
+    "name": "Iowa State"
+  },
+  {
+    "id": "129",
+    "name": "IUPUI"
+  },
+  {
+    "id": "130",
+    "name": "Jackson State"
+  },
+  {
+    "id": "131",
+    "name": "Jacksonville"
+  },
+  {
+    "id": "132",
+    "name": "Jacksonville State"
+  },
+  {
+    "id": "133",
+    "name": "James Madison"
+  },
+  {
+    "id": "134",
+    "name": "Kansas"
+  },
+  {
+    "id": "135",
+    "name": "Kansas City"
+  },
+  {
+    "id": "136",
+    "name": "Kansas State"
+  },
+  {
+    "id": "137",
+    "name": "Kennesaw State"
+  },
+  {
+    "id": "138",
+    "name": "Kent State"
+  },
+  {
+    "id": "139",
+    "name": "Kentucky"
+  },
+  {
+    "id": "140",
+    "name": "La Salle"
+  },
+  {
+    "id": "141",
+    "name": "Lafayette"
+  },
+  {
+    "id": "142",
+    "name": "Lamar"
+  },
+  {
+    "id": "143",
+    "name": "Lehigh"
+  },
+  {
+    "id": "144",
+    "name": "Liberty"
+  },
+  {
+    "id": "145",
+    "name": "Lindenwood"
+  },
+  {
+    "id": "146",
+    "name": "Lipscomb"
+  },
+  {
+    "id": "147",
+    "name": "Little Rock"
+  },
+  {
+    "id": "148",
+    "name": "Long Beach State"
+  },
+  {
+    "id": "149",
+    "name": "Long Island University"
+  },
+  {
+    "id": "150",
+    "name": "Longwood"
+  },
+  {
+    "id": "151",
+    "name": "Louisiana"
+  },
+  {
+    "id": "152",
+    "name": "Louisiana State"
+  },
+  {
+    "id": "153",
+    "name": "Louisiana Tech"
+  },
+  {
+    "id": "154",
+    "name": "Louisiana-Monroe"
+  },
+  {
+    "id": "155",
+    "name": "Louisville"
+  },
+  {
+    "id": "156",
+    "name": "Loyola (IL)"
+  },
+  {
+    "id": "157",
+    "name": "Loyola (MD)"
+  },
+  {
+    "id": "158",
+    "name": "Loyola Marymount"
+  },
+  {
+    "id": "159",
+    "name": "Maine"
+  },
+  {
+    "id": "160",
+    "name": "Manhattan"
+  },
+  {
+    "id": "161",
+    "name": "Marist"
+  },
+  {
+    "id": "162",
+    "name": "Marquette"
+  },
+  {
+    "id": "163",
+    "name": "Marshall"
+  },
+  {
+    "id": "164",
+    "name": "Maryland"
+  },
+  {
+    "id": "165",
+    "name": "Maryland-Baltimore County"
+  },
+  {
+    "id": "166",
+    "name": "Maryland-Eastern Shore"
+  },
+  {
+    "id": "167",
+    "name": "Massachusetts"
+  },
+  {
+    "id": "168",
+    "name": "Massachusetts-Lowell"
+  },
+  {
+    "id": "169",
+    "name": "McNeese State"
+  },
+  {
+    "id": "170",
+    "name": "Memphis"
+  },
+  {
+    "id": "171",
+    "name": "Mercer"
+  },
+  {
+    "id": "172",
+    "name": "Merrimack"
+  },
+  {
+    "id": "173",
+    "name": "Miami (FL)"
+  },
+  {
+    "id": "174",
+    "name": "Miami (OH)"
+  },
+  {
+    "id": "175",
+    "name": "Michigan"
+  },
+  {
+    "id": "176",
+    "name": "Michigan State"
+  },
+  {
+    "id": "177",
+    "name": "Middle Tennessee"
+  },
+  {
+    "id": "178",
+    "name": "Milwaukee"
+  },
+  {
+    "id": "179",
+    "name": "Minnesota"
+  },
+  {
+    "id": "180",
+    "name": "Mississippi"
+  },
+  {
+    "id": "181",
+    "name": "Mississippi State"
+  },
+  {
+    "id": "182",
+    "name": "Mississippi Valley State"
+  },
+  {
+    "id": "183",
+    "name": "Missouri"
+  },
+  {
+    "id": "184",
+    "name": "Missouri State"
+  },
+  {
+    "id": "185",
+    "name": "Monmouth"
+  },
+  {
+    "id": "186",
+    "name": "Montana"
+  },
+  {
+    "id": "187",
+    "name": "Montana State"
+  },
+  {
+    "id": "188",
+    "name": "Morehead State"
+  },
+  {
+    "id": "189",
+    "name": "Morgan State"
+  },
+  {
+    "id": "190",
+    "name": "Mount St. Mary's"
+  },
+  {
+    "id": "191",
+    "name": "Murray State"
+  },
+  {
+    "id": "192",
+    "name": "Navy"
+  },
+  {
+    "id": "193",
+    "name": "NC State"
+  },
+  {
+    "id": "194",
+    "name": "Nebraska"
+  },
+  {
+    "id": "195",
+    "name": "Nevada"
+  },
+  {
+    "id": "196",
+    "name": "Nevada-Las Vegas"
+  },
+  {
+    "id": "197",
+    "name": "New Hampshire"
+  },
+  {
+    "id": "198",
+    "name": "New Mexico"
+  },
+  {
+    "id": "199",
+    "name": "New Mexico State"
+  },
+  {
+    "id": "200",
+    "name": "New Orleans"
+  },
+  {
+    "id": "201",
+    "name": "Niagara"
+  },
+  {
+    "id": "202",
+    "name": "Nicholls State"
+  },
+  {
+    "id": "203",
+    "name": "NJIT"
+  },
+  {
+    "id": "204",
+    "name": "Norfolk State"
+  },
+  {
+    "id": "205",
+    "name": "North Alabama"
+  },
+  {
+    "id": "206",
+    "name": "North Carolina"
+  },
+  {
+    "id": "207",
+    "name": "North Carolina A&T"
+  },
+  {
+    "id": "208",
+    "name": "North Carolina Central"
+  },
+  {
+    "id": "209",
+    "name": "North Dakota"
+  },
+  {
+    "id": "210",
+    "name": "North Dakota State"
+  },
+  {
+    "id": "211",
+    "name": "North Florida"
+  },
+  {
+    "id": "212",
+    "name": "North Texas"
+  },
+  {
+    "id": "213",
+    "name": "Northeastern"
+  },
+  {
+    "id": "214",
+    "name": "Northern Arizona"
+  },
+  {
+    "id": "215",
+    "name": "Northern Colorado"
+  },
+  {
+    "id": "216",
+    "name": "Northern Illinois"
+  },
+  {
+    "id": "217",
+    "name": "Northern Iowa"
+  },
+  {
+    "id": "218",
+    "name": "Northern Kentucky"
+  },
+  {
+    "id": "219",
+    "name": "Northwestern"
+  },
+  {
+    "id": "220",
+    "name": "Northwestern State"
+  },
+  {
+    "id": "221",
+    "name": "Notre Dame"
+  },
+  {
+    "id": "222",
+    "name": "Oakland"
+  },
+  {
+    "id": "223",
+    "name": "Ohio"
+  },
+  {
+    "id": "224",
+    "name": "Ohio State"
+  },
+  {
+    "id": "225",
+    "name": "Oklahoma"
+  },
+  {
+    "id": "226",
+    "name": "Oklahoma State"
+  },
+  {
+    "id": "227",
+    "name": "Old Dominion"
+  },
+  {
+    "id": "228",
+    "name": "Omaha"
+  },
+  {
+    "id": "229",
+    "name": "Oral Roberts"
+  },
+  {
+    "id": "230",
+    "name": "Oregon"
+  },
+  {
+    "id": "231",
+    "name": "Oregon State"
+  },
+  {
+    "id": "232",
+    "name": "Pacific"
+  },
+  {
+    "id": "233",
+    "name": "Penn State"
+  },
+  {
+    "id": "234",
+    "name": "Pennsylvania"
+  },
+  {
+    "id": "235",
+    "name": "Pepperdine"
+  },
+  {
+    "id": "236",
+    "name": "Pittsburgh"
+  },
+  {
+    "id": "237",
+    "name": "Portland"
+  },
+  {
+    "id": "238",
+    "name": "Portland State"
+  },
+  {
+    "id": "239",
+    "name": "Prairie View"
+  },
+  {
+    "id": "240",
+    "name": "Presbyterian"
+  },
+  {
+    "id": "241",
+    "name": "Princeton"
+  },
+  {
+    "id": "242",
+    "name": "Providence"
+  },
+  {
+    "id": "243",
+    "name": "Purdue"
+  },
+  {
+    "id": "244",
+    "name": "Purdue-Fort Wayne"
+  },
+  {
+    "id": "245",
+    "name": "Queens (NC)"
+  },
+  {
+    "id": "246",
+    "name": "Quinnipiac"
+  },
+  {
+    "id": "247",
+    "name": "Radford"
+  },
+  {
+    "id": "248",
+    "name": "Rhode Island"
+  },
+  {
+    "id": "249",
+    "name": "Rice"
+  },
+  {
+    "id": "250",
+    "name": "Richmond"
+  },
+  {
+    "id": "251",
+    "name": "Rider"
+  },
+  {
+    "id": "252",
+    "name": "Robert Morris"
+  },
+  {
+    "id": "253",
+    "name": "Rutgers"
+  },
+  {
+    "id": "254",
+    "name": "Sacramento State"
+  },
+  {
+    "id": "255",
+    "name": "Sacred Heart"
+  },
+  {
+    "id": "256",
+    "name": "Saint Francis (PA)"
+  },
+  {
+    "id": "257",
+    "name": "Saint Joseph's"
+  },
+  {
+    "id": "258",
+    "name": "Saint Louis"
+  },
+  {
+    "id": "259",
+    "name": "Saint Mary's (CA)"
+  },
+  {
+    "id": "260",
+    "name": "Saint Peter's"
+  },
+  {
+    "id": "261",
+    "name": "Sam Houston State"
+  },
+  {
+    "id": "262",
+    "name": "Samford"
+  },
+  {
+    "id": "263",
+    "name": "San Diego"
+  },
+  {
+    "id": "264",
+    "name": "San Diego State"
+  },
+  {
+    "id": "265",
+    "name": "San Francisco"
+  },
+  {
+    "id": "266",
+    "name": "San Jose State"
+  },
+  {
+    "id": "267",
+    "name": "Santa Clara"
+  },
+  {
+    "id": "268",
+    "name": "Seattle"
+  },
+  {
+    "id": "269",
+    "name": "Seton Hall"
+  },
+  {
+    "id": "270",
+    "name": "Siena"
+  },
+  {
+    "id": "271",
+    "name": "South Alabama"
+  },
+  {
+    "id": "272",
+    "name": "South Carolina"
+  },
+  {
+    "id": "273",
+    "name": "South Carolina State"
+  },
+  {
+    "id": "274",
+    "name": "South Carolina Upstate"
+  },
+  {
+    "id": "275",
+    "name": "South Dakota"
+  },
+  {
+    "id": "276",
+    "name": "South Dakota State"
+  },
+  {
+    "id": "277",
+    "name": "South Florida"
+  },
+  {
+    "id": "278",
+    "name": "Southeast Missouri State"
+  },
+  {
+    "id": "279",
+    "name": "Southeastern Louisiana"
+  },
+  {
+    "id": "280",
+    "name": "Southern"
+  },
+  {
+    "id": "281",
+    "name": "Southern California"
+  },
+  {
+    "id": "282",
+    "name": "Southern Illinois"
+  },
+  {
+    "id": "283",
+    "name": "SIU Edwardsville"
+  },
+  {
+    "id": "284",
+    "name": "Southern Indiana"
+  },
+  {
+    "id": "285",
+    "name": "Southern Methodist"
+  },
+  {
+    "id": "286",
+    "name": "Southern Mississippi"
+  },
+  {
+    "id": "287",
+    "name": "Southern Utah"
+  },
+  {
+    "id": "288",
+    "name": "St. Bonaventure"
+  },
+  {
+    "id": "289",
+    "name": "St. Francis (NY)"
+  },
+  {
+    "id": "290",
+    "name": "St. John's (NY)"
+  },
+  {
+    "id": "291",
+    "name": "St. Thomas"
+  },
+  {
+    "id": "292",
+    "name": "Stanford"
+  },
+  {
+    "id": "293",
+    "name": "Stephen F. Austin"
+  },
+  {
+    "id": "294",
+    "name": "Stetson"
+  },
+  {
+    "id": "295",
+    "name": "Stonehill"
+  },
+  {
+    "id": "296",
+    "name": "Stony Brook"
+  },
+  {
+    "id": "297",
+    "name": "Syracuse"
+  },
+  {
+    "id": "298",
+    "name": "Tarleton State"
+  },
+  {
+    "id": "299",
+    "name": "TCU"
+  },
+  {
+    "id": "300",
+    "name": "Temple"
+  },
+  {
+    "id": "301",
+    "name": "Tennessee"
+  },
+  {
+    "id": "302",
+    "name": "Tennessee State"
+  },
+  {
+    "id": "303",
+    "name": "Tennessee Tech"
+  },
+  {
+    "id": "304",
+    "name": "Tennessee-Martin"
+  },
+  {
+    "id": "305",
+    "name": "Texas"
+  },
+  {
+    "id": "306",
+    "name": "Texas A&M"
+  },
+  {
+    "id": "307",
+    "name": "Texas A&M-Commerce"
+  },
+  {
+    "id": "308",
+    "name": "Texas A&M-Corpus Christi"
+  },
+  {
+    "id": "309",
+    "name": "Texas Southern"
+  },
+  {
+    "id": "310",
+    "name": "Texas State"
+  },
+  {
+    "id": "311",
+    "name": "Texas Tech"
+  },
+  {
+    "id": "312",
+    "name": "Texas-Rio Grande Valley"
+  },
+  {
+    "id": "313",
+    "name": "The Citadel"
+  },
+  {
+    "id": "314",
+    "name": "Toledo"
+  },
+  {
+    "id": "315",
+    "name": "Towson"
+  },
+  {
+    "id": "316",
+    "name": "Troy"
+  },
+  {
+    "id": "317",
+    "name": "Tulane"
+  },
+  {
+    "id": "318",
+    "name": "Tulsa"
+  },
+  {
+    "id": "319",
+    "name": "UAB"
+  },
+  {
+    "id": "320",
+    "name": "UC Davis"
+  },
+  {
+    "id": "321",
+    "name": "UC Irvine"
+  },
+  {
+    "id": "322",
+    "name": "UC Riverside"
+  },
+  {
+    "id": "323",
+    "name": "UC San Diego"
+  },
+  {
+    "id": "324",
+    "name": "UC Santa Barbara"
+  },
+  {
+    "id": "325",
+    "name": "UCLA"
+  },
+  {
+    "id": "326",
+    "name": "UNC Asheville"
+  },
+  {
+    "id": "327",
+    "name": "UNC Greensboro"
+  },
+  {
+    "id": "328",
+    "name": "UNC Wilmington"
+  },
+  {
+    "id": "329",
+    "name": "UT Arlington"
+  },
+  {
+    "id": "330",
+    "name": "Utah"
+  },
+  {
+    "id": "331",
+    "name": "Utah State"
+  },
+  {
+    "id": "332",
+    "name": "Utah Tech"
+  },
+  {
+    "id": "333",
+    "name": "Utah Valley"
+  },
+  {
+    "id": "334",
+    "name": "UTEP"
+  },
+  {
+    "id": "335",
+    "name": "UTSA"
+  },
+  {
+    "id": "336",
+    "name": "Valparaiso"
+  },
+  {
+    "id": "337",
+    "name": "Vanderbilt"
+  },
+  {
+    "id": "338",
+    "name": "Vermont"
+  },
+  {
+    "id": "339",
+    "name": "Villanova"
+  },
+  {
+    "id": "340",
+    "name": "Virginia"
+  },
+  {
+    "id": "341",
+    "name": "Virginia Commonwealth"
+  },
+  {
+    "id": "342",
+    "name": "VMI"
+  },
+  {
+    "id": "343",
+    "name": "Virginia Tech"
+  },
+  {
+    "id": "344",
+    "name": "Wagner"
+  },
+  {
+    "id": "345",
+    "name": "Wake Forest"
+  },
+  {
+    "id": "346",
+    "name": "Washington"
+  },
+  {
+    "id": "347",
+    "name": "Washington State"
+  },
+  {
+    "id": "348",
+    "name": "Weber State"
+  },
+  {
+    "id": "349",
+    "name": "West Virginia"
+  },
+  {
+    "id": "350",
+    "name": "Western Carolina"
+  },
+  {
+    "id": "351",
+    "name": "Western Illinois"
+  },
+  {
+    "id": "352",
+    "name": "Western Kentucky"
+  },
+  {
+    "id": "353",
+    "name": "Western Michigan"
+  },
+  {
+    "id": "354",
+    "name": "Wichita State"
+  },
+  {
+    "id": "355",
+    "name": "William & Mary"
+  },
+  {
+    "id": "356",
+    "name": "Winthrop"
+  },
+  {
+    "id": "357",
+    "name": "Wisconsin"
+  },
+  {
+    "id": "358",
+    "name": "Wofford"
+  },
+  {
+    "id": "359",
+    "name": "Wright State"
+  },
+  {
+    "id": "360",
+    "name": "Wyoming"
+  },
+  {
+    "id": "361",
+    "name": "Xavier"
+  },
+  {
+    "id": "362",
+    "name": "Yale"
+  },
+  {
+    "id": "363",
+    "name": "Youngstown State"
+  }
+]
