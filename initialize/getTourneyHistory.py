@@ -25,10 +25,9 @@ for row in body.find_all('tr'):
         year = header.text.split()[0]
         championTag = row.find('td', {"data-stat": "ncaa_champ"})
         champion = championTag.text
-        yearObj = {}
+        yearObj = {year: {"champion": champion, "url": url}}
         # print("url is", url)
         # print("url is type", type(url))
-        yearObj[year] = {"champion": champion, "url": url}
         champions.append(yearObj)
         # print("yearObj is", yearObj)
         # print("accessing Obj,", yearObj[year])
@@ -39,5 +38,5 @@ for row in body.find_all('tr'):
         print("yearObj.champion is", yearObj[year]["champion"])
 # print(champions)
 
-with open('champions.json', 'w') as f:
+with open('../champions.json', 'w') as f:
     json.dump(champions, f, indent=2)

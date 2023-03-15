@@ -4,7 +4,7 @@ import json
 
 baseUrl = "https://www.sports-reference.com"
 
-f = open("champions.json", "rb")
+f = open("../champions.json", "rb")
 jsonObject = json.load(f)
 f.close()
 
@@ -60,12 +60,11 @@ for division in divisions:
             teams = game.find_all('div')
             print("len(teams is)", len(teams))
             if len(teams) > 1:
-                gameObj = {}
-                gameObj["division"] = division.get('id')
+                gameObj = {"division": division.get('id')}
                 gameCounter += 1
                 gameObj["game_id"] = gameCounter
                 gameObj["round_num"] = roundNum
-                # loction of game is stored as a span in the game div
+                # location of game is stored as a span in the game div
                 gameObj["location"] = game.find("span", recursive=False).text
                 for team in teams:
                     print("/"*15, "team", "/"*15)
@@ -76,7 +75,7 @@ for division in divisions:
                     teamObj = {"name": team_tags[0].text, "rank": rank,
                                "score": team_tags[1].text, "team_url": team_tags[0]['href']}
                     gameObj["game_url"] = team_tags[1]['href']
-                    if (team.has_attr("class")):
+                    if team.has_attr("class"):
                         print("team class is", team['class'])
                         if 'winner' in team['class']:
                             # returns a result set of a tags, as there are both a tags for Team name and Score
@@ -88,7 +87,7 @@ for division in divisions:
                     # print(team.text)
                         else:
                             print(
-                                "something is wrong here... should not be able to get to this since team obj needs winner class")
+                                "something wrong should not be able to get to this since team obj needs winner class")
                     else:
                         gameObj["loser"] = teamObj
                     print("/"*15, "end team", "/"*15)
@@ -101,5 +100,5 @@ print(tourneyGames)
 
 # body = soup.find('tbody')
 
-with open('tourneyTest.json', 'w') as f:
+with open('../tourneyTest.json', 'w') as f:
     json.dump(tourneyGames, f, indent=2)
