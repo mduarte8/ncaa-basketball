@@ -2179,8 +2179,86 @@
   },
   {
     "id": 364,
-    "name": "Stanford Poopers",
-    "textId": "stanford-pratters",
-    "url": "/some/stuff/here"
+    "name": "Cal State Los Angeles",
+    "textId": "cal-state-los-angeles",
+    "url": "/cbb/schools/cal-state-los-angeles/men/1974.html"
+  },
+  {
+    "id": 365,
+    "name": "Oklahoma City",
+    "textId": "oklahoma-city",
+    "url": "/cbb/schools/oklahoma-city/men/1973.html"
+  },
+  {
+    "id": 366,
+    "name": "Trinity (TX)",
+    "textId": "trinity-tx",
+    "url": "/cbb/schools/trinity-tx/men/1969.html"
+  },
+  {
+    "id": 367,
+    "name": "NYU",
+    "textId": "new-york-university",
+    "url": "/cbb/schools/new-york-university/men/1963.html"
+  },
+  {
+    "id": 368,
+    "name": "Loyola (LA)",
+    "textId": "loyola-la",
+    "url": "/cbb/schools/loyola-la/men/1958.html"
+  },
+  {
+    "id": 369,
+    "name": "Hardin-Simmons",
+    "textId": "hardin-simmons",
+    "url": "/cbb/schools/hardin-simmons/men/1957.html"
+  },
+  {
+    "id": 370,
+    "name": "Wayne State (MI)",
+    "textId": "wayne-state-mi",
+    "url": "/cbb/schools/wayne-state-mi/men/1956.html"
+  },
+  {
+    "id": 371,
+    "name": "Williams",
+    "textId": "williams",
+    "url": "/cbb/schools/williams/men/1955.html"
+  },
+  {
+    "id": 372,
+    "name": "West Texas A&M",
+    "textId": "west-texas-am",
+    "url": "/cbb/schools/west-texas-am/men/1955.html"
+  },
+  {
+    "id": 373,
+    "name": "Lebanon Valley",
+    "textId": "lebanon-valley",
+    "url": "/cbb/schools/lebanon-valley/men/1953.html"
+  },
+  {
+    "id": 374,
+    "name": "CCNY",
+    "textId": "city-college-of-new-york",
+    "url": "/cbb/schools/city-college-of-new-york/men/1950.html"
+  },
+  {
+    "id": 375,
+    "name": "Tufts",
+    "textId": "tufts",
+    "url": "/cbb/schools/tufts/men/1945.html"
+  },
+  {
+    "id": 376,
+    "name": "Catholic",
+    "textId": "catholic",
+    "url": "/cbb/schools/catholic/men/1944.html"
+  },
+  {
+    "id": 377,
+    "name": "Springfield",
+    "textId": "springfield",
+    "url": "/cbb/schools/springfield/men/1940.html"
   }
 ]

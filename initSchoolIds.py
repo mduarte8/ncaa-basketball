@@ -3,6 +3,9 @@ import requests
 import json
 from getSchoolSeasonData import getSchoolsTable
 
+f = open("teamIds.json", "rb")
+teamJsonObject = json.load(f)
+f.close()
 
 suffix_url = "/cbb/seasons/men/2023-school-stats.html"
 
